@@ -1,0 +1,4 @@
+interface:
+  display_name: "Oversight UI Design"
+  short_description: "Diseño web y UI con cinco familias visuales"
+  default_prompt: "Usa $oversight-ui-design para diseñar e implementar una interfaz adaptada a mi producto, eligiendo una familia visual y verificando escritorio y móvil."

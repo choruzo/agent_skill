@@ -1,0 +1,968 @@
+{
+  "source": "https://supply.madebyoversight.com/?collection=all",
+  "captured": "2026-10-20",
+  "scope": "Public rendered catalog metadata; not full template source",
+  "count": 192,
+  "templates": [
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/giggle.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Giggle",
+      "text": "AI-ready\nGiggle\n\nSchools\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/cherry.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Cherry",
+      "text": "Cherry\n\nDesign Portfolio\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/calma.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Calma",
+      "text": "AI-ready\nCalma\n\nTherapy & Psychology\n\nPreview"
+    },
+    {
+      "image": "https://y4pdgnepgswqffpt.public.blob.vercel-storage.com/media/d81ad627-baa4-4c39-8bb8-b3deda33b48e/01a08713-d346-7111-b34d-1d0920499675.jpg",
+      "name": "Madeline",
+      "text": "Madeline\n\nDesign Portfolio\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/mosby.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Mosby",
+      "text": "Mosby\n\nArchitecture\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/queue.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Queue",
+      "text": "Queue\n\nWaitlist\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/stillpoint.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Stillpoint",
+      "text": "AI-ready\nStillpoint\n\nTherapy & Psychology\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/pretty.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Pretty",
+      "text": "AI-ready\nPretty\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/evergrid.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Evergrid",
+      "text": "AI-ready\nEvergrid\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/wings.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Wings",
+      "text": "AI-ready\nWings\n\nFreelancers & Consultants\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/protocol.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Protocol",
+      "text": "AI-ready\nProtocol\n\nBusiness & Finance Blog\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/daylight.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Daylight",
+      "text": "AI-ready\nDaylight\n\nArchitecture\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/large.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Large",
+      "text": "AI-ready\nLarge\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/armor.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Armor",
+      "text": "AI-ready\nArmor\n\nMobile App\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/lumenis.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Lumenis",
+      "text": "Free AI prompt\nLumenis\n\nDesign Portfolio\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/outside.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Outside",
+      "text": "Outside\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/chapter.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Chapter",
+      "text": "AI-ready\nChapter\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/serenya.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Serenya",
+      "text": "Serenya\n\nTherapy & Psychology\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/legion.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Legion",
+      "text": "AI-ready\nLegion\n\nPhotography & Video Portfolio\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/campione.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Campione",
+      "text": "Campione\n\nPhotography & Video Portfolio\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/bluehours.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "BlueHours",
+      "text": "AI-ready\nBlueHours\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/numeris.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Numeris",
+      "text": "Numeris\n\nConsulting & Coaching\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/photon.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Photon",
+      "text": "AI-ready\nPhoton\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/67904c44a45c0a4701753407_3c4c0afe-280b-49f3-be91-1495774fdb60.webp",
+      "name": "Palette",
+      "text": "Palette\n\nDesign Portfolio\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/solora.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Solora",
+      "text": "AI-ready\nSolora\n\nTherapy & Psychology\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/nullify.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Nullify",
+      "text": "AI-ready\nNullify\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/nura.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Nura",
+      "text": "AI-ready\nNura\n\nDesign Portfolio\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/altverse.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Altverse",
+      "text": "Altverse\n\nCreative Agency\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/through.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Through",
+      "text": "Through\n\nPhotography & Video Portfolio\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/thread.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Thread",
+      "text": "Thread\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/fastest.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Fastest",
+      "text": "Fastest\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/credix.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Credix",
+      "text": "Credix\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/ecliptic.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Ecliptic",
+      "text": "Ecliptic\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/elytra.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Elytra",
+      "text": "Elytra\n\nCreative Agency\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/leak.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Leak",
+      "text": "Leak\n\nPhotography & Video Portfolio\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/blues.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Blues",
+      "text": "Blues\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/waiting.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Waiting",
+      "text": "Waiting\n\nWaitlist\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/beaut.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Beauté",
+      "text": "Beauté\n\nDesign Portfolio\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/flagship.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Flagship",
+      "text": "Flagship\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/strike.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Strike",
+      "text": "Strike\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/stonepixels.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "StonePixels",
+      "text": "StonePixels\n\nDesign Portfolio\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/feathers.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Feathers",
+      "text": "Feathers\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/todo.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Todo",
+      "text": "Todo\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/azure.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Azure",
+      "text": "Azure\n\nLaw Firm & Attorney\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/soundwave.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Soundwave",
+      "text": "Soundwave\n\nMobile App\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/blured.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Blured",
+      "text": "Blured\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/magnetix.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Magnetix",
+      "text": "Magnetix\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/sneaky.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Sneaky",
+      "text": "Sneaky\n\nSports & Outdoors Store\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/bubblegum.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Bubblegum",
+      "text": "Bubblegum\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/unmarked.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Unmarked",
+      "text": "Unmarked\n\nPhotography & Video Portfolio\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/snooze.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Snooze",
+      "text": "Snooze\n\nMobile App\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/expose.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Expose",
+      "text": "Expose\n\nPhotography & Video Portfolio\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/petal.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Petal",
+      "text": "Petal\n\nPhotography & Video Portfolio\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/snowie.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Snowie",
+      "text": "Snowie\n\nMobile App\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/ascend.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Ascend",
+      "text": "Ascend\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/redsun.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "RedSun",
+      "text": "RedSun\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/inkbank.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "InkBank",
+      "text": "InkBank\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/alien.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Alien",
+      "text": "Alien\n\nPhotography & Video Portfolio\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/celestial.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Celestial",
+      "text": "Celestial\n\nCreative Agency\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/messenger.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Messenger",
+      "text": "Messenger\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/skylinks.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Skylinks",
+      "text": "Skylinks\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/hazy-app.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Hazy",
+      "text": "Hazy\n\nMobile App\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/deliverdash.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "DeliverDash",
+      "text": "DeliverDash\n\nMobile App\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/raspberry-saas.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Raspberry",
+      "text": "Raspberry\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/drow-app.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Drow",
+      "text": "Drow\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/kiwi-saas.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Kiwi",
+      "text": "Kiwi\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/superstar-saas.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "SuperStar",
+      "text": "SuperStar\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/lithium-saas.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Lithium",
+      "text": "Lithium\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/datadash-technology.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "DataDash",
+      "text": "DataDash\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/greenday-saas.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Greenday",
+      "text": "Greenday\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/sonar-app.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Sonar",
+      "text": "Sonar\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/optify-saas.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Optify",
+      "text": "Optify\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/cozyhome-furniture.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "CozyHome",
+      "text": "CozyHome\n\nHome Decor Store\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/sekiro-game.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Sekiro",
+      "text": "Sekiro\n\nGaming\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/starfish-app.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Starfish",
+      "text": "Starfish\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/techwear-fashion.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Techwear",
+      "text": "Techwear\n\nFashion & Clothing Store\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/capra-saas.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Capra",
+      "text": "Capra\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/easiest-portfolio.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Easiest",
+      "text": "Easiest\n\nDesign Portfolio\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/submit-app.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Submit",
+      "text": "Submit\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/notifypro-app.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "NotifyPro",
+      "text": "NotifyPro\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/colourless-saas.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Colourless",
+      "text": "Colourless\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/ethereal-saas.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Ethereal",
+      "text": "Ethereal\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/wellnesswave-health.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "WellnessWave",
+      "text": "WellnessWave\n\nHealth & Nutrition\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/healthsquare-health.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "HealthSquare",
+      "text": "HealthSquare\n\nFitness & Gym\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/tunnel-photography.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Tunnel",
+      "text": "Tunnel\n\nDesign Portfolio\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/redai-saas.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "RedAI",
+      "text": "RedAI\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/echoes-business.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Echoes",
+      "text": "Echoes\n\nConsulting & Coaching\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/netfolio-portfolio.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Netfolio",
+      "text": "Netfolio\n\nDesign Portfolio\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/frost-app.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Frost",
+      "text": "Frost\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/mirrorless-portfolio.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Mirrorless",
+      "text": "Mirrorless\n\nDesign Portfolio\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/sliver-saas.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Sliver",
+      "text": "Sliver\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/notify-app.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Notify",
+      "text": "Notify\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/architectura-architecture.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Architectura",
+      "text": "Architectura\n\nArchitecture\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/saasmind-saas.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "SaaSMind",
+      "text": "SaaSMind\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/reality-portfolio.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Reality",
+      "text": "Reality\n\nDesign Portfolio\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/sideways-photography.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Sideways",
+      "text": "Sideways\n\nDesign Portfolio\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/credit-saas.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Credit",
+      "text": "Credit\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/midway-app.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Midway",
+      "text": "Midway\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/sunlight-app.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Sunlight",
+      "text": "Sunlight\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/phases-saas.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Phases",
+      "text": "Phases\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/noted-app.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Noted",
+      "text": "Noted\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/enterpriseedge-business.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "EnterpriseEdge",
+      "text": "EnterpriseEdge\n\nConsulting & Coaching\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/hedwig-bank.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Hedwig",
+      "text": "Hedwig\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6680aafd9b6ae81d0ddf624c_795cb268-8481-452c-a86c-71e2ec1a39cb.webp",
+      "name": "Commit",
+      "text": "Commit\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://supply.madebyoversight.com/thumbs/branch-saas.webp?dpl=dpl_3f8U7esB3v5Ps9LW57rYY4diUa3t",
+      "name": "Branch",
+      "text": "Branch\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/667ae0ac265ba47e5abb4971_7bd1f849-0400-41d3-934a-39b5b26f7493.webp",
+      "name": "Saturns",
+      "text": "Saturns\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/667ae50af17d28126eb8f6d8_15fe2523-3d4f-49d4-b183-00280366b115.webp",
+      "name": "Command",
+      "text": "Command\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/679051820db22e4b71d0d627_236515d5-1087-413f-96c8-a8521db9d9cf.webp",
+      "name": "Manual",
+      "text": "Manual\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/67903c269e970d3d67c82975_97d49e81-6f9d-44f8-b3bc-8f94b29c8bb1.webp",
+      "name": "Torii",
+      "text": "Torii\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/67883fbc54d3e20c63b9130a_bf0b84ba-d5ba-4b4b-b23e-83a12c22a9ad.webp",
+      "name": "Northern",
+      "text": "Northern\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/67903c1025a8ee54df1dbe61_64fff3cc-faad-476b-ad62-fce033da2a0d.webp",
+      "name": "Smarter",
+      "text": "Smarter\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/67903c899ab571fae9584c37_78c63c68-c16f-484c-b1fa-63337c30ff4e.webp",
+      "name": "TechNest",
+      "text": "TechNest\n\nElectronics Store\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/67904b1b962f5407a0397565_3faaeb85-f90d-472e-a918-a2ddbd3a5f5a.webp",
+      "name": "Limes",
+      "text": "Limes\n\nMobile App\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/67903ac4abaff60dfff4d509_37aa77ca-2040-44f4-9536-368d4a048c04.webp",
+      "name": "Illusion",
+      "text": "Illusion\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/67883d73d8df196729ac6d41_def42796-a9af-4206-ae0b-5d44f9a697f3.webp",
+      "name": "Array",
+      "text": "Array\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/67883ab302f60a4905e2a268_ffbca245-30a3-4743-9b8a-2151aaf53976.webp",
+      "name": "Fearless",
+      "text": "Fearless\n\nDesign Portfolio\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/664cc530463687cedfa3ec73_a8b1886c-dba0-4b08-8df0-8cf86f9c85c5.webp",
+      "name": "Algorithm",
+      "text": "Algorithm\n\nCreative Agency\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/664cd7b69278141c8ccabfa8_44cc15dc-ef6b-40a1-ba0a-ee3504b49ba6.webp",
+      "name": "Object",
+      "text": "Object\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/664a42f65ca7438f3ec22b3d_71a2b15c-5bb1-47fa-bb2a-106799080c5c.webp",
+      "name": "Coastal",
+      "text": "Coastal\n\nHotels & Lodging\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/67883f1e01ffa6f84ebc5e0e_b2519337-42d4-47f4-a35f-62a95566c47e.webp",
+      "name": "Rapture",
+      "text": "Rapture\n\nDesign Portfolio\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/663ddfbe8ec9e176cd03b32c_Thumbnail-13.webp",
+      "name": "Scarlet",
+      "text": "Scarlet\n\nHotels & Lodging\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/67883caccfc5023ee169e180_d379c4b3-ae6d-445a-88c1-968cb0a0f056.webp",
+      "name": "Labyrinth",
+      "text": "Labyrinth\n\nMobile App\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6788291fbb860c04a860d0df_cc26dfb3-6646-46ac-b799-863d3cf90e50.webp",
+      "name": "CryptoSphere",
+      "text": "CryptoSphere\n\nBlockchain, Cryptocurrency & NFTs\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/67883fb416cc9ed5b6e911aa_ba9b4980-3142-4aab-9f2d-cdae5cb69f63.webp",
+      "name": "Haste",
+      "text": "Haste\n\nDesign Portfolio\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6790500d61b7425744d1418d_1649e6e4-e068-40b2-9ec9-5be3ee9a8653.webp",
+      "name": "Savior",
+      "text": "Savior\n\nBeauty & Wellness Store\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6788293622cad247e977f29e_c84882f7-9e72-4e14-b792-68180da14a08.webp",
+      "name": "Silk",
+      "text": "Silk\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/67883b81ea72fe35e6ba0544_f29d55e7-b466-43a6-bf5c-19faddfe7498.webp",
+      "name": "Skyline Hotels",
+      "text": "Skyline Hotels\n\nHotels & Lodging\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/67883a94d568bbe5de5bfbaa_fb58ca5a-6c0f-4e40-9eab-9a95b372de09.webp",
+      "name": "Dimmer",
+      "text": "Dimmer\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/678829379d11da722c007216_c6255758-6338-449e-90fe-934158e051fc.webp",
+      "name": "Spectral",
+      "text": "Spectral\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/67883e48d8df196729ad667b_c0427aac-f1f9-494a-8d62-759528673747.webp",
+      "name": "Shift",
+      "text": "Shift\n\nDesign Portfolio\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6609be968d16096f160b91d3_76aa7621-b657-4c55-a8ba-a88853de9015.webp",
+      "name": "Arata",
+      "text": "Arata\n\nDesign Portfolio\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/67903a5df46e05971bbafb83_63da82f5-451e-4446-a7c3-707592c3342c.webp",
+      "name": "Kuro",
+      "text": "Kuro\n\nDesign Portfolio\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/65fb34db845c6790c9c806f4_a6a32f2b-a916-4a03-aa17-f37ce6cc8818.webp",
+      "name": "Ashina",
+      "text": "Ashina\n\nDesign Portfolio\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/67905113ce835eb57004f77a_14721cfa-014c-45f1-8fd2-293c8d5676db.webp",
+      "name": "Blade",
+      "text": "Blade\n\nDesign Portfolio\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/67904ca4ce09897af4a40d40_3bad250e-8848-4a54-8d0b-84f5db6ef89c.webp",
+      "name": "Sakura",
+      "text": "Sakura\n\nDesign Portfolio\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/67904bf9cd9accf75fa77c45_2fc730c0-0fa5-492a-bcd4-09c8465f6684.webp",
+      "name": "Swift",
+      "text": "Swift\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/67903d1d9fda50f11cd3ac81_347fb061-9608-4fab-98da-63e01bf6fcca.webp",
+      "name": "Variable",
+      "text": "Variable\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/65ee60d2f4ae733cbb5f8db7_6e510666-f19a-4e4f-9e40-1975bd9e5992.webp",
+      "name": "ViaVia",
+      "text": "ViaVia\n\nSoftware & SaaS\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/67883a8bb95468d2b3efc528_ff453c41-902f-4d07-b263-06f03cc624bd.webp",
+      "name": "ProCapture",
+      "text": "ProCapture\n\nDesign Portfolio\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/679050b475a992e41383cebc_4639f028-57f4-4ce1-bf67-4a62d58bb6b2.webp",
+      "name": "Majesty",
+      "text": "Majesty\n\nDesign Portfolio\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/65dd11de4fba6754d73e49ab_a58a1062-f86f-4b45-aa11-edd9305f0eef.webp",
+      "name": "Prosper",
+      "text": "Prosper\n\nDesign Portfolio\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/67883c170bcea71c1dc33d8c_e4fa7769-70ab-4f1d-a96b-31f3668667c1.webp",
+      "name": "Apocalypse",
+      "text": "Apocalypse\n\nDesign Portfolio\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/67883b9215164c22fe2a3e89_ea7a5936-8cc5-42d0-9113-194cbd997a3b.webp",
+      "name": "Fallen",
+      "text": "Fallen\n\nDesign Portfolio\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/65cb692811895703e22b1a84_b1fb4734-c34b-4adc-bf4a-3258fc551481.webp",
+      "name": "Pixies",
+      "text": "Pixies\n\nDesign Portfolio\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/65c7c31093388f371320f1c4_51b1245e-19cc-471c-923a-13d6267cf8d3.webp",
+      "name": "Radiants",
+      "text": "Radiants\n\nMobile App\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/679045f09fb64bfccc7bdc26_76da8530-bcb5-4b8e-a9e8-e26fee4b92c1.webp",
+      "name": "Pure",
+      "text": "Pure\n\nMobile App\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/678828d422cad247e9777624_cdfb25bc-4f39-4ad6-ac08-9910deb3a017.webp",
+      "name": "Lenses",
+      "text": "Lenses\n\nPhotography & Video Portfolio\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/65aeb4d353ca4e34581922f2_314ea03d-8a90-4506-b20c-8852379ccf17.webp",
+      "name": "Flexify",
+      "text": "Flexify\n\nFitness & Gym\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/67903ed4a3f7f3d5b5e6570b_b07638c8-c42a-42bc-91d3-80efe13704c1.webp",
+      "name": "Chatty",
+      "text": "Chatty\n\nAI\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/659fbf113bf041f1a844c0c3_286b77a4-61ed-459d-83f2-92005c613111.webp",
+      "name": "Glossy",
+      "text": "Glossy\n\nMobile App\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/678d6fa2dcf64c5baa78544f_IsAuBYd-hcRsHm2ABzRY5hxW2DmJCwsypXTIrjaynv0.webp",
+      "name": "Tilted",
+      "text": "Tilted\n\nDesign Portfolio\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/67904b53449c8c46d16e37d3_4a0c9cc0-7f88-47a4-8a6a-4d52c58b3430.webp",
+      "name": "Void",
+      "text": "Void\n\nMobile App\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/678d6f3689f5940770f98929_iNSyL8ICmLh2TekOiWSBHmgcMK7PaTv1cBb0HjetoCM.webp",
+      "name": "Vibe",
+      "text": "Vibe\n\nMobile App\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/678d6f5c4f6c868c826f0803_XIkK23qnwaLCMTCNuMcV6z3jfMZ9cut8vWAD3mlVGhw.webp",
+      "name": "Pulse",
+      "text": "Pulse\n\nDesign Portfolio\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/678d6f7868cab1cb7dd5d9a2_in8QRr78-LzzBD1ef9dcL2Hc1C85ZQkA7Sybjn0hR9s.webp",
+      "name": "Quiver",
+      "text": "Quiver\n\nAI\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/67887163188223b4f673d100_swissfin.webp",
+      "name": "Forge FinX",
+      "text": "Forge FinX\n\nAI\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/678d6f4a7675610f1c2e34f4_35ovvrMLpXrZp563kddExwVgsGIk6AUABtTAvFo_KtM.webp",
+      "name": "Click",
+      "text": "Click\n\nDesign Portfolio\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/678d6f9089f5940770f9e9c9_DEG43QKd8o0o8YGp1UetncC36yyvagWFKD9LwUP2rvg.webp",
+      "name": "Blue-print",
+      "text": "Blue-print\n\nArchitecture\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/678871a476d3ccda53cc5312_654bf135ea423b44e3460a7f_thumbnail.webp",
+      "name": "EnterpriseLink",
+      "text": "EnterpriseLink\n\nAI\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/678871343b2784a24ac86110_654bc7284348ba5b9c7410fe_thumbnail.webp",
+      "name": "Overcast",
+      "text": "Overcast\n\nAI\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/67887176e1cc1da140023d2c_6543d7c133186a2b967057c7_thumbnail.webp",
+      "name": "Glaze",
+      "text": "Glaze\n\nBeauty & Wellness Store\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6788717183d2e2382ea11b04_6542763248306c77b4b71422_thumbnail.webp",
+      "name": "Sparkle",
+      "text": "Sparkle\n\nMobile App\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/67887168659b4a3a8a528b02_6525a0af3918086506563601_thumbnail2.webp",
+      "name": "Sharp",
+      "text": "Sharp\n\nMobile App\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/678870a15df557783827a9c1_6525b47dcaa8e6357a275c6c_thumbnail.webp",
+      "name": "Stars",
+      "text": "Stars\n\nMobile App\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/678870faecd16e1811909b83_651db5ffbdcfe7df8068773b_thumbnail.webp",
+      "name": "UnderRated",
+      "text": "UnderRated\n\nMobile App\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/678870f3630c4c7e2015f63f_6509d247193f1ea82fcebc83_thumbnail.webp",
+      "name": "Better AI",
+      "text": "Better AI\n\nAI\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/678871618527468609ac03b1_6505db86130c7981a6e3c290_thumbnail.webp",
+      "name": "Mid-Night",
+      "text": "Mid-Night\n\nMobile App\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/678871d22610d0973878353f_6500d569666f511e331890c3_thumbnail.webp",
+      "name": "Mark",
+      "text": "Mark\n\nDesign Portfolio\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/678871415e7a0b09e81b6f29_6511b1bcf117daf570e2c2db_thumbnail.webp",
+      "name": "Sprinter",
+      "text": "Sprinter\n\nDesign Portfolio\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/67886d3463260dc1adbcf5af_65031a13b28d2b9b845205ee_thumbnail.webp",
+      "name": "Crystal",
+      "text": "Crystal\n\nMobile App\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/678870db3be82cb2d551057b_64fb58e18a89aaf6fb3de523_thumbnail.webp",
+      "name": "Genius",
+      "text": "Genius\n\nMobile App\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/678870e9c068b96597fd548b_64db8a24d8f20bcfea0e5221_thumbnail1.webp",
+      "name": "Delayed",
+      "text": "Delayed\n\nMobile App\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6788712a85b41ce8fd02d0f6_64da3d0847edd1c43b2be5d5_thumbnail.webp",
+      "name": "Pearl",
+      "text": "Pearl\n\nMobile App\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/678871809b7b22c1aed68067_64ca97babf39064e19994e86_thumbnail.webp",
+      "name": "Brave",
+      "text": "Brave\n\nMobile App\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6788714f3829e5a554041d1e_64c2ca6063538fe77c64b6ca_thumbnail.webp",
+      "name": "Crocus",
+      "text": "Crocus\n\nMobile App\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/67887248371ce2f814ded204_64bec8026aefd743b8948eee_thumbnail.webp",
+      "name": "Loading",
+      "text": "Loading\n\nDesign Portfolio\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/678871c0b194ac5e24120ef0_64b848b8aa720e65ea55f4ab_thumbnail.webp",
+      "name": "Vanta",
+      "text": "Vanta\n\nMobile App\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/678870e549021db5f484186c_64b59d6bde1f968ac318e2b8_thumbnail.webp",
+      "name": "Oreo AI",
+      "text": "Oreo AI\n\nMobile App\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/67887302143e00a93f7e5d1c_64b49c90b803b0d560b98163_thumbnail.webp",
+      "name": "Rampage",
+      "text": "Rampage\n\nDesign Portfolio\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/678872a9ecd16e181192b3d2_64a2dfc5fb22173b3ec89959_thumbnail.webp",
+      "name": "Control",
+      "text": "Control\n\nMobile App\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6788721e5df557783829a252_649327b2d4a695ebe2ca8b1c_thumbnail.webp",
+      "name": "Blury",
+      "text": "Blury\n\nDesign Portfolio\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/678872f58e4d8763017513af_646e25201bf6ba60bc628930_thumbnail.webp",
+      "name": "Coraline",
+      "text": "Coraline\n\nMobile App\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/678872526a1c89aa995fda6b_645e49dd33da2adbac0ab51d_thumbnail.webp",
+      "name": "Confettis",
+      "text": "Confettis\n\nMobile App\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/67887257f1b34a60d7075c8b_64663a2e8c35e44412ca8b12_thumbnail.webp",
+      "name": "Matte Extra",
+      "text": "Matte Extra\n\nAI\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/67887259c728e15dd3d21336_64555c4e4a23e4ad4c56f901_thumbnail-20(33).webp",
+      "name": "Delusional",
+      "text": "Delusional\n\nMobile App\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/678872d8c068b96597ffc5f3_644f86bfd4456485c0fa5947_thumbnail-20(24).webp",
+      "name": "Indigo",
+      "text": "Indigo\n\nDesign Portfolio\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/67887277c16d395f6bdfe16c_6423021f90ea3a35af1e1351_thumbnail.webp",
+      "name": "WiseX",
+      "text": "WiseX\n\nMobile App\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6788726b0325f275814d92a0_6422dfadcf262642f9249448_thumbnail.webp",
+      "name": "Sodium",
+      "text": "Sodium\n\nDesign Portfolio\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/678872157550de9bd1ad3851_63fd6d0e4c9290968e4be81c_thumbnail.webp",
+      "name": "Matte",
+      "text": "Matte\n\nMobile App\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/6788731d72a3458fe94917a5_63d29fa168040e563a035047_thumbnail.webp",
+      "name": "Aerials",
+      "text": "Aerials\n\nDesign Portfolio\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/67887280066ee7c900414241_63ab1d2dc73ddf6d8ffe695d_thumbnail.webp",
+      "name": "Savvy",
+      "text": "Savvy\n\nBanking & Investment\n\nPreview"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/5e593fb060cf877cf875dd1f/678872b5004f9f622bd04f7f_63ab1d2d2e85b3c01bad05fd_thumbnail.webp",
+      "name": "Pleasures",
+      "text": "Pleasures\n\nDesign Portfolio\n\nPreview"
+    }
+  ]
+}

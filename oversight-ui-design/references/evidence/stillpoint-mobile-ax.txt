@@ -1,0 +1,1836 @@
+Browser tab: 974564232, Title: "Oversight Supply — Website templates & Claude video skills", URL: "https://supply.madebyoversight.com/?collection=all".
+0 AXWebArea Oversight Supply — Website templates & Claude video skills, URL: supply.madebyoversi…
+	1 link Description: Skip to templates, Value: supply.madebyoversi…
+	2 container
+		3 link Description: Oversight Supply home, Value: supply.madebyoversi…
+		4 container Catalog
+			5 text BROWSE
+			6 link Description: Home, Value: supply.madebyoversi…
+			7 link Description: All Templates 192, Value: supply.madebyoversi…
+			8 link Description: Recently Added, Value: supply.madebyoversi…
+			9 link Description: Sections 41, Value: supply.madebyoversi…
+			10 link Description: Videos NEW, Value: supply.madebyoversi…
+			11 text PLATFORM
+			12 link Description: All Platforms 192, Value: supply.madebyoversi…
+			13 link Description: Webflow 189, Value: supply.madebyoversi…
+			14 link Description: Framer 12, Value: supply.madebyoversi…
+			15 text MY LIBRARY
+			16 link Description: My Templates 0, Value: supply.madebyoversi…
+			17 link Description: Favorites 0, Value: supply.madebyoversi…
+		18 link Description: View pricing, Value: supply.madebyoversi…
+		19 link Description: Sign in, Value: supply.madebyoversi…
+		20 button Feedback
+		21 link Description: Help, Value: supply.madebyoversi…
+	22 container main
+		23 container
+			24 heading Templates, Value: 1
+				25 container
+					26 text 192 templates match the current filters.
+				27 text Templates
+			28 text Premium Webflow and Framer templates by Oversight. Browse and preview freely, then unlock with a membership.
+			29 container Platform
+				30 link Description: All, Value: supply.madebyoversi…
+				31 link Description: Webflow, Value: supply.madebyoversi…
+				32 link Description: Framer, Value: supply.madebyoversi…
+		33 search text field (settable) Search templates
+		34 pop up button (collapsed) Description: Category: All categories, Secondary Actions: Expand
+		35 checkbox With Figma, Value: 0
+		36 checkbox AI-ready 18, Value: 0
+		37 Sort
+			38 radio button Newest, Value: 1
+			39 radio button Featured, Value: 0
+			40 radio button A–Z, Value: 0
+		41 content list Templates
+			42 container
+				43 button Preview Giggle
+					44 image Giggle template preview
+				45 text AI-ready
+				46 heading Giggle, Value: 3
+					47 text Giggle
+				48 text Schools
+				49 container Webflow
+				50 checkbox Description: Add Giggle to favorites, Help: Favorites are saved to your account, Value: 0
+			51 container
+				52 button Preview Cherry
+					53 image Cherry template preview
+				54 heading Cherry, Value: 3
+					55 text Cherry
+				56 text Design Portfolio
+				57 container Framer — free
+				58 checkbox Description: Add Cherry to favorites, Help: Favorites are saved to your account, Value: 0
+			59 container
+				60 button Preview Calma
+					61 image Calma template preview
+				62 text AI-ready
+				63 heading Calma, Value: 3
+					64 text Calma
+				65 text Therapy & Psychology
+				66 container Webflow
+				67 checkbox Description: Add Calma to favorites, Help: Favorites are saved to your account, Value: 0
+			68 container
+				69 button Preview Madeline
+					70 image Madeline template preview
+				71 heading Madeline, Value: 3
+					72 text Madeline
+				73 text Design Portfolio
+				74 container Framer
+				75 checkbox Description: Add Madeline to favorites, Help: Favorites are saved to your account, Value: 0
+			76 container
+				77 button Preview Mosby
+					78 image Mosby template preview
+				79 heading Mosby, Value: 3
+					80 text Mosby
+				81 text Architecture
+				82 container Webflow
+				83 checkbox Description: Add Mosby to favorites, Help: Favorites are saved to your account, Value: 0
+			84 container
+				85 button Preview Queue
+					86 image Queue template preview
+				87 heading Queue, Value: 3
+					88 text Queue
+				89 text Waitlist
+				90 container Framer
+				91 checkbox Description: Add Queue to favorites, Help: Favorites are saved to your account, Value: 0
+			92 container
+				93 button Preview Stillpoint
+					94 image Stillpoint template preview
+				95 text AI-ready
+				96 heading Stillpoint, Value: 3
+					97 text Stillpoint
+				98 text Therapy & Psychology
+				99 container Webflow
+				100 checkbox Description: Add Stillpoint to favorites, Help: Favorites are saved to your account, Value: 0
+			101 container
+				102 button Preview Pretty
+					103 image Pretty template preview
+				104 text AI-ready
+				105 heading Pretty, Value: 3
+					106 text Pretty
+				107 text Software & SaaS
+				108 container
+					109 container Webflow
+					110 container Framer — free
+				111 checkbox Description: Add Pretty to favorites, Help: Favorites are saved to your account, Value: 0
+			112 container
+				113 button Preview Evergrid
+					114 image Evergrid template preview
+				115 text AI-ready
+				116 heading Evergrid, Value: 3
+					117 text Evergrid
+				118 text Software & SaaS
+				119 container Webflow
+				120 checkbox Description: Add Evergrid to favorites, Help: Favorites are saved to your account, Value: 0
+			121 container
+				122 button Preview Wings
+					123 image Wings template preview
+				124 text AI-ready
+				125 heading Wings, Value: 3
+					126 text Wings
+				127 text Freelancers & Consultants
+				128 container
+					129 container Webflow
+					130 container Framer
+				131 checkbox Description: Add Wings to favorites, Help: Favorites are saved to your account, Value: 0
+			132 container
+				133 button Preview Protocol
+					134 image Protocol template preview
+				135 text AI-ready
+				136 heading Protocol, Value: 3
+					137 text Protocol
+				138 text Business & Finance Blog
+				139 container Webflow
+				140 checkbox Description: Add Protocol to favorites, Help: Favorites are saved to your account, Value: 0
+			141 container
+				142 button Preview Daylight
+					143 image Daylight template preview
+				144 text AI-ready
+				145 heading Daylight, Value: 3
+					146 text Daylight
+				147 text Architecture
+				148 container
+					149 container Webflow
+					150 container Framer
+				151 checkbox Description: Add Daylight to favorites, Help: Favorites are saved to your account, Value: 0
+			152 container
+				153 button Preview Large
+					154 image Large template preview
+				155 text AI-ready
+				156 heading Large, Value: 3
+					157 text Large
+				158 text Software & SaaS
+				159 container Webflow
+				160 checkbox Description: Add Large to favorites, Help: Favorites are saved to your account, Value: 0
+			161 container
+				162 button Preview Armor
+					163 image Armor template preview
+				164 text AI-ready
+				165 heading Armor, Value: 3
+					166 text Armor
+				167 text Mobile App
+				168 container
+					169 container Webflow
+					170 container Framer
+				171 checkbox Description: Add Armor to favorites, Help: Favorites are saved to your account, Value: 0
+			172 container
+				173 button Preview Lumenis
+					174 image Lumenis template preview
+				175 text Free AI prompt
+				176 heading Lumenis, Value: 3
+					177 text Lumenis
+				178 text Design Portfolio
+				179 container Webflow
+				180 checkbox Description: Add Lumenis to favorites, Help: Favorites are saved to your account, Value: 0
+			181 container
+				182 button Preview Outside
+					183 image Outside template preview
+				184 heading Outside, Value: 3
+					185 text Outside
+				186 text Software & SaaS
+				187 container
+					188 container Webflow
+					189 container Framer
+				190 checkbox Description: Add Outside to favorites, Help: Favorites are saved to your account, Value: 0
+			191 container
+				192 button Preview Chapter
+					193 image Chapter template preview
+				194 text AI-ready
+				195 heading Chapter, Value: 3
+					196 text Chapter
+				197 text Software & SaaS
+				198 container Webflow
+				199 checkbox Description: Add Chapter to favorites, Help: Favorites are saved to your account, Value: 0
+			200 container
+				201 button Preview Serenya
+					202 image Serenya template preview
+				203 heading Serenya, Value: 3
+					204 text Serenya
+				205 text Therapy & Psychology
+				206 container
+					207 container Webflow
+					208 container Framer
+				209 checkbox Description: Add Serenya to favorites, Help: Favorites are saved to your account, Value: 0
+			210 container
+				211 button Preview Legion
+					212 image Legion template preview
+				213 text AI-ready
+				214 heading Legion, Value: 3
+					215 text Legion
+				216 text Photography & Video Portfolio
+				217 container Webflow
+				218 checkbox Description: Add Legion to favorites, Help: Favorites are saved to your account, Value: 0
+			219 container
+				220 button Preview Campione
+					221 image Campione template preview
+				222 heading Campione, Value: 3
+					223 text Campione
+				224 text Photography & Video Portfolio
+				225 container
+					226 container Webflow
+					227 container Framer — free
+				228 checkbox Description: Add Campione to favorites, Help: Favorites are saved to your account, Value: 0
+			229 container
+				230 button Preview BlueHours
+					231 image BlueHours template preview
+				232 text AI-ready
+				233 heading BlueHours, Value: 3
+					234 text BlueHours
+				235 text Software & SaaS
+				236 container Webflow
+				237 checkbox Description: Add BlueHours to favorites, Help: Favorites are saved to your account, Value: 0
+			238 container
+				239 button Preview Numeris
+					240 image Numeris template preview
+				241 heading Numeris, Value: 3
+					242 text Numeris
+				243 text Consulting & Coaching
+				244 container
+					245 container Webflow
+					246 container Framer
+				247 checkbox Description: Add Numeris to favorites, Help: Favorites are saved to your account, Value: 0
+			248 container
+				249 button Preview Photon
+					250 image Photon template preview
+				251 text AI-ready
+				252 heading Photon, Value: 3
+					253 text Photon
+				254 text Software & SaaS
+				255 container Webflow
+				256 checkbox Description: Add Photon to favorites, Help: Favorites are saved to your account, Value: 0
+			257 container
+				258 button Preview Palette
+					259 image Palette template preview
+				260 heading Palette, Value: 3
+					261 text Palette
+				262 text Design Portfolio
+				263 container
+					264 container Webflow
+					265 container Framer
+				266 checkbox Description: Add Palette to favorites, Help: Favorites are saved to your account, Value: 0
+			267 container
+				268 button Preview Solora
+					269 image Solora template preview
+				270 text AI-ready
+				271 heading Solora, Value: 3
+					272 text Solora
+				273 text Therapy & Psychology
+				274 container Webflow
+				275 checkbox Description: Add Solora to favorites, Help: Favorites are saved to your account, Value: 0
+			276 container
+				277 button Preview Nullify
+					278 image Nullify template preview
+				279 text AI-ready
+				280 heading Nullify, Value: 3
+					281 text Nullify
+				282 text Software & SaaS
+				283 container Webflow
+				284 checkbox Description: Add Nullify to favorites, Help: Favorites are saved to your account, Value: 0
+			285 container
+				286 button Preview Nura
+					287 image Nura template preview
+				288 text AI-ready
+				289 heading Nura, Value: 3
+					290 text Nura
+				291 text Design Portfolio
+				292 container Webflow
+				293 checkbox Description: Add Nura to favorites, Help: Favorites are saved to your account, Value: 0
+			294 container
+				295 button Preview Altverse
+					296 image Altverse template preview
+				297 heading Altverse, Value: 3
+					298 text Altverse
+				299 text Creative Agency
+				300 container Webflow — free
+				301 checkbox Description: Add Altverse to favorites, Help: Favorites are saved to your account, Value: 0
+			302 container
+				303 button Preview Through
+					304 image Through template preview
+				305 heading Through, Value: 3
+					306 text Through
+				307 text Photography & Video Portfolio
+				308 container Webflow
+				309 checkbox Description: Add Through to favorites, Help: Favorites are saved to your account, Value: 0
+			310 container
+				311 button Preview Thread
+					312 image Thread template preview
+				313 heading Thread, Value: 3
+					314 text Thread
+				315 text Software & SaaS
+				316 container Webflow
+				317 checkbox Description: Add Thread to favorites, Help: Favorites are saved to your account, Value: 0
+			318 container
+				319 button Preview Fastest
+					320 image Fastest template preview
+				321 heading Fastest, Value: 3
+					322 text Fastest
+				323 text Software & SaaS
+				324 container Webflow
+				325 checkbox Description: Add Fastest to favorites, Help: Favorites are saved to your account, Value: 0
+			326 container
+				327 button Preview Credix
+					328 image Credix template preview
+				329 heading Credix, Value: 3
+					330 text Credix
+				331 text Software & SaaS
+				332 container Webflow
+				333 checkbox Description: Add Credix to favorites, Help: Favorites are saved to your account, Value: 0
+			334 container
+				335 button Preview Ecliptic
+					336 image Ecliptic template preview
+				337 heading Ecliptic, Value: 3
+					338 text Ecliptic
+				339 text Software & SaaS
+				340 container Webflow
+				341 checkbox Description: Add Ecliptic to favorites, Help: Favorites are saved to your account, Value: 0
+			342 container
+				343 button Preview Elytra
+					344 image Elytra template preview
+				345 heading Elytra, Value: 3
+					346 text Elytra
+				347 text Creative Agency
+				348 container Webflow
+				349 checkbox Description: Add Elytra to favorites, Help: Favorites are saved to your account, Value: 0
+			350 container
+				351 button Preview Leak
+					352 image Leak template preview
+				353 heading Leak, Value: 3
+					354 text Leak
+				355 text Photography & Video Portfolio
+				356 container Webflow
+				357 checkbox Description: Add Leak to favorites, Help: Favorites are saved to your account, Value: 0
+			358 container
+				359 button Preview Blues
+					360 image Blues template preview
+				361 heading Blues, Value: 3
+					362 text Blues
+				363 text Software & SaaS
+				364 container Webflow
+				365 checkbox Description: Add Blues to favorites, Help: Favorites are saved to your account, Value: 0
+			366 container
+				367 button Preview Waiting
+					368 image Waiting template preview
+				369 heading Waiting, Value: 3
+					370 text Waiting
+				371 text Waitlist
+				372 container Webflow
+				373 checkbox Description: Add Waiting to favorites, Help: Favorites are saved to your account, Value: 0
+			374 container
+				375 button Preview Beauté
+					376 image Beauté template preview
+				377 heading Beauté, Value: 3
+					378 text Beauté
+				379 text Design Portfolio
+				380 container Webflow
+				381 checkbox Description: Add Beauté to favorites, Help: Favorites are saved to your account, Value: 0
+			382 container
+				383 button Preview Flagship
+					384 image Flagship template preview
+				385 heading Flagship, Value: 3
+					386 text Flagship
+				387 text Software & SaaS
+				388 container Webflow
+				389 checkbox Description: Add Flagship to favorites, Help: Favorites are saved to your account, Value: 0
+			390 container
+				391 button Preview Strike
+					392 image Strike template preview
+				393 heading Strike, Value: 3
+					394 text Strike
+				395 text Software & SaaS
+				396 container Webflow
+				397 checkbox Description: Add Strike to favorites, Help: Favorites are saved to your account, Value: 0
+			398 container
+				399 button Preview StonePixels
+					400 image StonePixels template preview
+				401 heading StonePixels, Value: 3
+					402 text StonePixels
+				403 text Design Portfolio
+				404 container Webflow
+				405 checkbox Description: Add StonePixels to favorites, Help: Favorites are saved to your account, Value: 0
+			406 container
+				407 button Preview Feathers
+					408 image Feathers template preview
+				409 heading Feathers, Value: 3
+					410 text Feathers
+				411 text Software & SaaS
+				412 container Webflow
+				413 checkbox Description: Add Feathers to favorites, Help: Favorites are saved to your account, Value: 0
+			414 container
+				415 button Preview Todo
+					416 image Todo template preview
+				417 heading Todo, Value: 3
+					418 text Todo
+				419 text Software & SaaS
+				420 container Webflow
+				421 checkbox Description: Add Todo to favorites, Help: Favorites are saved to your account, Value: 0
+			422 container
+				423 button Preview Azure
+					424 image Azure template preview
+				425 heading Azure, Value: 3
+					426 text Azure
+				427 text Law Firm & Attorney
+				428 container Webflow
+				429 checkbox Description: Add Azure to favorites, Help: Favorites are saved to your account, Value: 0
+			430 container
+				431 button Preview Soundwave
+					432 image Soundwave template preview
+				433 heading Soundwave, Value: 3
+					434 text Soundwave
+				435 text Mobile App
+				436 container Webflow
+				437 checkbox Description: Add Soundwave to favorites, Help: Favorites are saved to your account, Value: 0
+			438 container
+				439 button Preview Blured
+					440 image Blured template preview
+				441 heading Blured, Value: 3
+					442 text Blured
+				443 text Software & SaaS
+				444 container Webflow
+				445 checkbox Description: Add Blured to favorites, Help: Favorites are saved to your account, Value: 0
+			446 container
+				447 button Preview Magnetix
+					448 image Magnetix template preview
+				449 heading Magnetix, Value: 3
+					450 text Magnetix
+				451 text Software & SaaS
+				452 container Webflow
+				453 checkbox Description: Add Magnetix to favorites, Help: Favorites are saved to your account, Value: 0
+			454 container
+				455 button Preview Sneaky
+					456 image Sneaky template preview
+				457 heading Sneaky, Value: 3
+					458 text Sneaky
+				459 text Sports & Outdoors Store
+				460 container Webflow
+				461 checkbox Description: Add Sneaky to favorites, Help: Favorites are saved to your account, Value: 0
+			462 container
+				463 button Preview Bubblegum
+					464 image Bubblegum template preview
+				465 heading Bubblegum, Value: 3
+					466 text Bubblegum
+				467 text Software & SaaS
+				468 container Webflow
+				469 checkbox Description: Add Bubblegum to favorites, Help: Favorites are saved to your account, Value: 0
+			470 container
+				471 button Preview Unmarked
+					472 image Unmarked template preview
+				473 heading Unmarked, Value: 3
+					474 text Unmarked
+				475 text Photography & Video Portfolio
+				476 container Webflow
+				477 checkbox Description: Add Unmarked to favorites, Help: Favorites are saved to your account, Value: 0
+			478 container
+				479 button Preview Snooze
+					480 image Snooze template preview
+				481 heading Snooze, Value: 3
+					482 text Snooze
+				483 text Mobile App
+				484 container Webflow
+				485 checkbox Description: Add Snooze to favorites, Help: Favorites are saved to your account, Value: 0
+			486 container
+				487 button Preview Expose
+					488 image Expose template preview
+				489 heading Expose, Value: 3
+					490 text Expose
+				491 text Photography & Video Portfolio
+				492 container Webflow
+				493 checkbox Description: Add Expose to favorites, Help: Favorites are saved to your account, Value: 0
+			494 container
+				495 button Preview Petal
+					496 image Petal template preview
+				497 heading Petal, Value: 3
+					498 text Petal
+				499 text Photography & Video Portfolio
+				500 container Webflow
+				501 checkbox Description: Add Petal to favorites, Help: Favorites are saved to your account, Value: 0
+			502 container
+				503 button Preview Snowie
+					504 image Snowie template preview
+				505 heading Snowie, Value: 3
+					506 text Snowie
+				507 text Mobile App
+				508 container Webflow
+				509 checkbox Description: Add Snowie to favorites, Help: Favorites are saved to your account, Value: 0
+			510 container
+				511 button Preview Ascend
+					512 image Ascend template preview
+				513 heading Ascend, Value: 3
+					514 text Ascend
+				515 text Software & SaaS
+				516 container Webflow
+				517 checkbox Description: Add Ascend to favorites, Help: Favorites are saved to your account, Value: 0
+			518 container
+				519 button Preview RedSun
+					520 image RedSun template preview
+				521 heading RedSun, Value: 3
+					522 text RedSun
+				523 text Software & SaaS
+				524 container Webflow
+				525 checkbox Description: Add RedSun to favorites, Help: Favorites are saved to your account, Value: 0
+			526 container
+				527 button Preview InkBank
+					528 image InkBank template preview
+				529 heading InkBank, Value: 3
+					530 text InkBank
+				531 text Software & SaaS
+				532 container Webflow
+				533 checkbox Description: Add InkBank to favorites, Help: Favorites are saved to your account, Value: 0
+			534 container
+				535 button Preview Alien
+					536 image Alien template preview
+				537 heading Alien, Value: 3
+					538 text Alien
+				539 text Photography & Video Portfolio
+				540 container Webflow
+				541 checkbox Description: Add Alien to favorites, Help: Favorites are saved to your account, Value: 0
+			542 container
+				543 button Preview Celestial
+					544 image Celestial template preview
+				545 heading Celestial, Value: 3
+					546 text Celestial
+				547 text Creative Agency
+				548 container Webflow
+				549 checkbox Description: Add Celestial to favorites, Help: Favorites are saved to your account, Value: 0
+			550 container
+				551 button Preview Messenger
+					552 image Messenger template preview
+				553 heading Messenger, Value: 3
+					554 text Messenger
+				555 text Software & SaaS
+				556 container Webflow
+				557 checkbox Description: Add Messenger to favorites, Help: Favorites are saved to your account, Value: 0
+			558 container
+				559 button Preview Skylinks
+					560 image Skylinks template preview
+				561 heading Skylinks, Value: 3
+					562 text Skylinks
+				563 text Software & SaaS
+				564 container Webflow
+				565 checkbox Description: Add Skylinks to favorites, Help: Favorites are saved to your account, Value: 0
+			566 container
+				567 button Preview Hazy
+					568 image Hazy template preview
+				569 heading Hazy, Value: 3
+					570 text Hazy
+				571 text Mobile App
+				572 container Webflow
+				573 checkbox Description: Add Hazy to favorites, Help: Favorites are saved to your account, Value: 0
+			574 container
+				575 button Preview DeliverDash
+					576 image DeliverDash template preview
+				577 heading DeliverDash, Value: 3
+					578 text DeliverDash
+				579 text Mobile App
+				580 container Webflow
+				581 checkbox Description: Add DeliverDash to favorites, Help: Favorites are saved to your account, Value: 0
+			582 container
+				583 button Preview Raspberry
+					584 image Raspberry template preview
+				585 heading Raspberry, Value: 3
+					586 text Raspberry
+				587 text Software & SaaS
+				588 container Webflow
+				589 checkbox Description: Add Raspberry to favorites, Help: Favorites are saved to your account, Value: 0
+			590 container
+				591 button Preview Drow
+					592 image Drow template preview
+				593 heading Drow, Value: 3
+					594 text Drow
+				595 text Software & SaaS
+				596 container Webflow
+				597 checkbox Description: Add Drow to favorites, Help: Favorites are saved to your account, Value: 0
+			598 container
+				599 button Preview Kiwi
+					600 image Kiwi template preview
+				601 heading Kiwi, Value: 3
+					602 text Kiwi
+				603 text Software & SaaS
+				604 container Webflow
+				605 checkbox Description: Add Kiwi to favorites, Help: Favorites are saved to your account, Value: 0
+			606 container
+				607 button Preview SuperStar
+					608 image SuperStar template preview
+				609 heading SuperStar, Value: 3
+					610 text SuperStar
+				611 text Software & SaaS
+				612 container Webflow
+				613 checkbox Description: Add SuperStar to favorites, Help: Favorites are saved to your account, Value: 0
+			614 container
+				615 button Preview Lithium
+					616 image Lithium template preview
+				617 heading Lithium, Value: 3
+					618 text Lithium
+				619 text Software & SaaS
+				620 container Webflow
+				621 checkbox Description: Add Lithium to favorites, Help: Favorites are saved to your account, Value: 0
+			622 container
+				623 button Preview DataDash
+					624 image DataDash template preview
+				625 heading DataDash, Value: 3
+					626 text DataDash
+				627 text Software & SaaS
+				628 container Webflow
+				629 checkbox Description: Add DataDash to favorites, Help: Favorites are saved to your account, Value: 0
+			630 container
+				631 button Preview Greenday
+					632 image Greenday template preview
+				633 heading Greenday, Value: 3
+					634 text Greenday
+				635 text Software & SaaS
+				636 container Webflow
+				637 checkbox Description: Add Greenday to favorites, Help: Favorites are saved to your account, Value: 0
+			638 container
+				639 button Preview Sonar
+					640 image Sonar template preview
+				641 heading Sonar, Value: 3
+					642 text Sonar
+				643 text Software & SaaS
+				644 container Webflow
+				645 checkbox Description: Add Sonar to favorites, Help: Favorites are saved to your account, Value: 0
+			646 container
+				647 button Preview Optify
+					648 image Optify template preview
+				649 heading Optify, Value: 3
+					650 text Optify
+				651 text Software & SaaS
+				652 container Webflow
+				653 checkbox Description: Add Optify to favorites, Help: Favorites are saved to your account, Value: 0
+			654 container
+				655 button Preview CozyHome
+					656 image CozyHome template preview
+				657 heading CozyHome, Value: 3
+					658 text CozyHome
+				659 text Home Decor Store
+				660 container Webflow
+				661 checkbox Description: Add CozyHome to favorites, Help: Favorites are saved to your account, Value: 0
+			662 container
+				663 button Preview Sekiro
+					664 image Sekiro template preview
+				665 heading Sekiro, Value: 3
+					666 text Sekiro
+				667 text Gaming
+				668 container Webflow
+				669 checkbox Description: Add Sekiro to favorites, Help: Favorites are saved to your account, Value: 0
+			670 container
+				671 button Preview Starfish
+					672 image Starfish template preview
+				673 heading Starfish, Value: 3
+					674 text Starfish
+				675 text Software & SaaS
+				676 container Webflow
+				677 checkbox Description: Add Starfish to favorites, Help: Favorites are saved to your account, Value: 0
+			678 container
+				679 button Preview Techwear
+					680 image Techwear template preview
+				681 heading Techwear, Value: 3
+					682 text Techwear
+				683 text Fashion & Clothing Store
+				684 container Webflow
+				685 checkbox Description: Add Techwear to favorites, Help: Favorites are saved to your account, Value: 0
+			686 container
+				687 button Preview Capra
+					688 image Capra template preview
+				689 heading Capra, Value: 3
+					690 text Capra
+				691 text Software & SaaS
+				692 container Webflow
+				693 checkbox Description: Add Capra to favorites, Help: Favorites are saved to your account, Value: 0
+			694 container
+				695 button Preview Easiest
+					696 image Easiest template preview
+				697 heading Easiest, Value: 3
+					698 text Easiest
+				699 text Design Portfolio
+				700 container Webflow
+				701 checkbox Description: Add Easiest to favorites, Help: Favorites are saved to your account, Value: 0
+			702 container
+				703 button Preview Submit
+					704 image Submit template preview
+				705 heading Submit, Value: 3
+					706 text Submit
+				707 text Software & SaaS
+				708 container Webflow
+				709 checkbox Description: Add Submit to favorites, Help: Favorites are saved to your account, Value: 0
+			710 container
+				711 button Preview NotifyPro
+					712 image NotifyPro template preview
+				713 heading NotifyPro, Value: 3
+					714 text NotifyPro
+				715 text Software & SaaS
+				716 container Webflow
+				717 checkbox Description: Add NotifyPro to favorites, Help: Favorites are saved to your account, Value: 0
+			718 container
+				719 button Preview Colourless
+					720 image Colourless template preview
+				721 heading Colourless, Value: 3
+					722 text Colourless
+				723 text Software & SaaS
+				724 container Webflow
+				725 checkbox Description: Add Colourless to favorites, Help: Favorites are saved to your account, Value: 0
+			726 container
+				727 button Preview Ethereal
+					728 image Ethereal template preview
+				729 heading Ethereal, Value: 3
+					730 text Ethereal
+				731 text Software & SaaS
+				732 container Webflow
+				733 checkbox Description: Add Ethereal to favorites, Help: Favorites are saved to your account, Value: 0
+			734 container
+				735 button Preview WellnessWave
+					736 image WellnessWave template preview
+				737 heading WellnessWave, Value: 3
+					738 text WellnessWave
+				739 text Health & Nutrition
+				740 container Webflow
+				741 checkbox Description: Add WellnessWave to favorites, Help: Favorites are saved to your account, Value: 0
+			742 container
+				743 button Preview HealthSquare
+					744 image HealthSquare template preview
+				745 heading HealthSquare, Value: 3
+					746 text HealthSquare
+				747 text Fitness & Gym
+				748 container Webflow
+				749 checkbox Description: Add HealthSquare to favorites, Help: Favorites are saved to your account, Value: 0
+			750 container
+				751 button Preview Tunnel
+					752 image Tunnel template preview
+				753 heading Tunnel, Value: 3
+					754 text Tunnel
+				755 text Design Portfolio
+				756 container Webflow
+				757 checkbox Description: Add Tunnel to favorites, Help: Favorites are saved to your account, Value: 0
+			758 container
+				759 button Preview RedAI
+					760 image RedAI template preview
+				761 heading RedAI, Value: 3
+					762 text RedAI
+				763 text Software & SaaS
+				764 container Webflow
+				765 checkbox Description: Add RedAI to favorites, Help: Favorites are saved to your account, Value: 0
+			766 container
+				767 button Preview Echoes
+					768 image Echoes template preview
+				769 heading Echoes, Value: 3
+					770 text Echoes
+				771 text Consulting & Coaching
+				772 container Webflow
+				773 checkbox Description: Add Echoes to favorites, Help: Favorites are saved to your account, Value: 0
+			774 container
+				775 button Preview Netfolio
+					776 image Netfolio template preview
+				777 heading Netfolio, Value: 3
+					778 text Netfolio
+				779 text Design Portfolio
+				780 container Webflow
+				781 checkbox Description: Add Netfolio to favorites, Help: Favorites are saved to your account, Value: 0
+			782 container
+				783 button Preview Frost
+					784 image Frost template preview
+				785 heading Frost, Value: 3
+					786 text Frost
+				787 text Software & SaaS
+				788 container Webflow
+				789 checkbox Description: Add Frost to favorites, Help: Favorites are saved to your account, Value: 0
+			790 container
+				791 button Preview Mirrorless
+					792 image Mirrorless template preview
+				793 heading Mirrorless, Value: 3
+					794 text Mirrorless
+				795 text Design Portfolio
+				796 container Webflow
+				797 checkbox Description: Add Mirrorless to favorites, Help: Favorites are saved to your account, Value: 0
+			798 container
+				799 button Preview Sliver
+					800 image Sliver template preview
+				801 heading Sliver, Value: 3
+					802 text Sliver
+				803 text Software & SaaS
+				804 container Webflow
+				805 checkbox Description: Add Sliver to favorites, Help: Favorites are saved to your account, Value: 0
+			806 container
+				807 button Preview Notify
+					808 image Notify template preview
+				809 heading Notify, Value: 3
+					810 text Notify
+				811 text Software & SaaS
+				812 container Webflow
+				813 checkbox Description: Add Notify to favorites, Help: Favorites are saved to your account, Value: 0
+			814 container
+				815 button Preview Architectura
+					816 image Architectura template preview
+				817 heading Architectura, Value: 3
+					818 text Architectura
+				819 text Architecture
+				820 container Webflow
+				821 checkbox Description: Add Architectura to favorites, Help: Favorites are saved to your account, Value: 0
+			822 container
+				823 button Preview SaaSMind
+					824 image SaaSMind template preview
+				825 heading SaaSMind, Value: 3
+					826 text SaaSMind
+				827 text Software & SaaS
+				828 container Webflow
+				829 checkbox Description: Add SaaSMind to favorites, Help: Favorites are saved to your account, Value: 0
+			830 container
+				831 button Preview Reality
+					832 image Reality template preview
+				833 heading Reality, Value: 3
+					834 text Reality
+				835 text Design Portfolio
+				836 container Webflow
+				837 checkbox Description: Add Reality to favorites, Help: Favorites are saved to your account, Value: 0
+			838 container
+				839 button Preview Sideways
+					840 image Sideways template preview
+				841 heading Sideways, Value: 3
+					842 text Sideways
+				843 text Design Portfolio
+				844 container Webflow
+				845 checkbox Description: Add Sideways to favorites, Help: Favorites are saved to your account, Value: 0
+			846 container
+				847 button Preview Credit
+					848 image Credit template preview
+				849 heading Credit, Value: 3
+					850 text Credit
+				851 text Software & SaaS
+				852 container Webflow
+				853 checkbox Description: Add Credit to favorites, Help: Favorites are saved to your account, Value: 0
+			854 container
+				855 button Preview Midway
+					856 image Midway template preview
+				857 heading Midway, Value: 3
+					858 text Midway
+				859 text Software & SaaS
+				860 container Webflow
+				861 checkbox Description: Add Midway to favorites, Help: Favorites are saved to your account, Value: 0
+			862 container
+				863 button Preview Sunlight
+					864 image Sunlight template preview
+				865 heading Sunlight, Value: 3
+					866 text Sunlight
+				867 text Software & SaaS
+				868 container Webflow
+				869 checkbox Description: Add Sunlight to favorites, Help: Favorites are saved to your account, Value: 0
+			870 container
+				871 button Preview Phases
+					872 image Phases template preview
+				873 heading Phases, Value: 3
+					874 text Phases
+				875 text Software & SaaS
+				876 container Webflow
+				877 checkbox Description: Add Phases to favorites, Help: Favorites are saved to your account, Value: 0
+			878 container
+				879 button Preview Noted
+					880 image Noted template preview
+				881 heading Noted, Value: 3
+					882 text Noted
+				883 text Software & SaaS
+				884 container Webflow
+				885 checkbox Description: Add Noted to favorites, Help: Favorites are saved to your account, Value: 0
+			886 container
+				887 button Preview EnterpriseEdge
+					888 image EnterpriseEdge template preview
+				889 heading EnterpriseEdge, Value: 3
+					890 text EnterpriseEdge
+				891 text Consulting & Coaching
+				892 container Webflow
+				893 checkbox Description: Add EnterpriseEdge to favorites, Help: Favorites are saved to your account, Value: 0
+			894 container
+				895 button Preview Hedwig
+					896 image Hedwig template preview
+				897 heading Hedwig, Value: 3
+					898 text Hedwig
+				899 text Software & SaaS
+				900 container Webflow
+				901 checkbox Description: Add Hedwig to favorites, Help: Favorites are saved to your account, Value: 0
+			902 container
+				903 button Preview Commit
+					904 image Commit template preview
+				905 heading Commit, Value: 3
+					906 text Commit
+				907 text Software & SaaS
+				908 container Webflow
+				909 checkbox Description: Add Commit to favorites, Help: Favorites are saved to your account, Value: 0
+			910 container
+				911 button Preview Branch
+					912 image Branch template preview
+				913 heading Branch, Value: 3
+					914 text Branch
+				915 text Software & SaaS
+				916 container Webflow
+				917 checkbox Description: Add Branch to favorites, Help: Favorites are saved to your account, Value: 0
+			918 container
+				919 button Preview Saturns
+					920 image Saturns template preview
+				921 heading Saturns, Value: 3
+					922 text Saturns
+				923 text Software & SaaS
+				924 container Webflow
+				925 checkbox Description: Add Saturns to favorites, Help: Favorites are saved to your account, Value: 0
+			926 container
+				927 button Preview Command
+					928 image Command template preview
+				929 heading Command, Value: 3
+					930 text Command
+				931 text Software & SaaS
+				932 container Webflow
+				933 checkbox Description: Add Command to favorites, Help: Favorites are saved to your account, Value: 0
+			934 container
+				935 button Preview Manual
+					936 image Manual template preview
+				937 heading Manual, Value: 3
+					938 text Manual
+				939 text Software & SaaS
+				940 container Webflow
+				941 checkbox Description: Add Manual to favorites, Help: Favorites are saved to your account, Value: 0
+			942 container
+				943 button Preview Torii
+					944 image Torii template preview
+				945 heading Torii, Value: 3
+					946 text Torii
+				947 text Software & SaaS
+				948 container Webflow
+				949 checkbox Description: Add Torii to favorites, Help: Favorites are saved to your account, Value: 0
+			950 container
+				951 button Preview Northern
+					952 image Northern template preview
+				953 heading Northern, Value: 3
+					954 text Northern
+				955 text Software & SaaS
+				956 container Webflow
+				957 checkbox Description: Add Northern to favorites, Help: Favorites are saved to your account, Value: 0
+			958 container
+				959 button Preview Smarter
+					960 image Smarter template preview
+				961 heading Smarter, Value: 3
+					962 text Smarter
+				963 text Software & SaaS
+				964 container Webflow
+				965 checkbox Description: Add Smarter to favorites, Help: Favorites are saved to your account, Value: 0
+			966 container
+				967 button Preview TechNest
+					968 image TechNest template preview
+				969 heading TechNest, Value: 3
+					970 text TechNest
+				971 text Electronics Store
+				972 container Webflow
+				973 checkbox Description: Add TechNest to favorites, Help: Favorites are saved to your account, Value: 0
+			974 container
+				975 button Preview Limes
+					976 image Limes template preview
+				977 heading Limes, Value: 3
+					978 text Limes
+				979 text Mobile App
+				980 container Webflow
+				981 checkbox Description: Add Limes to favorites, Help: Favorites are saved to your account, Value: 0
+			982 container
+				983 button Preview Illusion
+					984 image Illusion template preview
+				985 heading Illusion, Value: 3
+					986 text Illusion
+				987 text Software & SaaS
+				988 container Webflow
+				989 checkbox Description: Add Illusion to favorites, Help: Favorites are saved to your account, Value: 0
+			990 container
+				991 button Preview Array
+					992 image Array template preview
+				993 heading Array, Value: 3
+					994 text Array
+				995 text Software & SaaS
+				996 container Webflow
+				997 checkbox Description: Add Array to favorites, Help: Favorites are saved to your account, Value: 0
+			998 container
+				999 button Preview Fearless
+					1000 image Fearless template preview
+				1001 heading Fearless, Value: 3
+					1002 text Fearless
+				1003 text Design Portfolio
+				1004 container Webflow
+				1005 checkbox Description: Add Fearless to favorites, Help: Favorites are saved to your account, Value: 0
+			1006 container
+				1007 button Preview Algorithm
+					1008 image Algorithm template preview
+				1009 heading Algorithm, Value: 3
+					1010 text Algorithm
+				1011 text Creative Agency
+				1012 container Webflow
+				1013 checkbox Description: Add Algorithm to favorites, Help: Favorites are saved to your account, Value: 0
+			1014 container
+				1015 button Preview Object
+					1016 image Object template preview
+				1017 heading Object, Value: 3
+					1018 text Object
+				1019 text Software & SaaS
+				1020 container Webflow
+				1021 checkbox Description: Add Object to favorites, Help: Favorites are saved to your account, Value: 0
+			1022 container
+				1023 button Preview Coastal
+					1024 image Coastal template preview
+				1025 heading Coastal, Value: 3
+					1026 text Coastal
+				1027 text Hotels & Lodging
+				1028 container Webflow
+				1029 checkbox Description: Add Coastal to favorites, Help: Favorites are saved to your account, Value: 0
+			1030 container
+				1031 button Preview Rapture
+					1032 image Rapture template preview
+				1033 heading Rapture, Value: 3
+					1034 text Rapture
+				1035 text Design Portfolio
+				1036 container Webflow
+				1037 checkbox Description: Add Rapture to favorites, Help: Favorites are saved to your account, Value: 0
+			1038 container
+				1039 button Preview Scarlet
+					1040 image Scarlet template preview
+				1041 heading Scarlet, Value: 3
+					1042 text Scarlet
+				1043 text Hotels & Lodging
+				1044 container Webflow
+				1045 checkbox Description: Add Scarlet to favorites, Help: Favorites are saved to your account, Value: 0
+			1046 container
+				1047 button Preview Labyrinth
+					1048 image Labyrinth template preview
+				1049 heading Labyrinth, Value: 3
+					1050 text Labyrinth
+				1051 text Mobile App
+				1052 container Webflow
+				1053 checkbox Description: Add Labyrinth to favorites, Help: Favorites are saved to your account, Value: 0
+			1054 container
+				1055 button Preview CryptoSphere
+					1056 image CryptoSphere template preview
+				1057 heading CryptoSphere, Value: 3
+					1058 text CryptoSphere
+				1059 text Blockchain, Cryptocurrency & NFTs
+				1060 container Webflow
+				1061 checkbox Description: Add CryptoSphere to favorites, Help: Favorites are saved to your account, Value: 0
+			1062 container
+				1063 button Preview Haste
+					1064 image Haste template preview
+				1065 heading Haste, Value: 3
+					1066 text Haste
+				1067 text Design Portfolio
+				1068 container Webflow
+				1069 checkbox Description: Add Haste to favorites, Help: Favorites are saved to your account, Value: 0
+			1070 container
+				1071 button Preview Savior
+					1072 image Savior template preview
+				1073 heading Savior, Value: 3
+					1074 text Savior
+				1075 text Beauty & Wellness Store
+				1076 container Webflow
+				1077 checkbox Description: Add Savior to favorites, Help: Favorites are saved to your account, Value: 0
+			1078 container
+				1079 button Preview Silk
+					1080 image Silk template preview
+				1081 heading Silk, Value: 3
+					1082 text Silk
+				1083 text Software & SaaS
+				1084 container Webflow
+				1085 checkbox Description: Add Silk to favorites, Help: Favorites are saved to your account, Value: 0
+			1086 container
+				1087 button Preview Skyline Hotels
+					1088 image Skyline Hotels template preview
+				1089 heading Skyline Hotels, Value: 3
+					1090 text Skyline Hotels
+				1091 text Hotels & Lodging
+				1092 container Webflow
+				1093 checkbox Description: Add Skyline Hotels to favorites, Help: Favorites are saved to your account, Value: 0
+			1094 container
+				1095 button Preview Dimmer
+					1096 image Dimmer template preview
+				1097 heading Dimmer, Value: 3
+					1098 text Dimmer
+				1099 text Software & SaaS
+				1100 container Webflow
+				1101 checkbox Description: Add Dimmer to favorites, Help: Favorites are saved to your account, Value: 0
+			1102 container
+				1103 button Preview Spectral
+					1104 image Spectral template preview
+				1105 heading Spectral, Value: 3
+					1106 text Spectral
+				1107 text Software & SaaS
+				1108 container Webflow
+				1109 checkbox Description: Add Spectral to favorites, Help: Favorites are saved to your account, Value: 0
+			1110 container
+				1111 button Preview Shift
+					1112 image Shift template preview
+				1113 heading Shift, Value: 3
+					1114 text Shift
+				1115 text Design Portfolio
+				1116 container Webflow
+				1117 checkbox Description: Add Shift to favorites, Help: Favorites are saved to your account, Value: 0
+			1118 container
+				1119 button Preview Arata
+					1120 image Arata template preview
+				1121 heading Arata, Value: 3
+					1122 text Arata
+				1123 text Design Portfolio
+				1124 container Webflow
+				1125 checkbox Description: Add Arata to favorites, Help: Favorites are saved to your account, Value: 0
+			1126 container
+				1127 button Preview Kuro
+					1128 image Kuro template preview
+				1129 heading Kuro, Value: 3
+					1130 text Kuro
+				1131 text Design Portfolio
+				1132 container Webflow
+				1133 checkbox Description: Add Kuro to favorites, Help: Favorites are saved to your account, Value: 0
+			1134 container
+				1135 button Preview Ashina
+					1136 image Ashina template preview
+				1137 heading Ashina, Value: 3
+					1138 text Ashina
+				1139 text Design Portfolio
+				1140 container Webflow
+				1141 checkbox Description: Add Ashina to favorites, Help: Favorites are saved to your account, Value: 0
+			1142 container
+				1143 button Preview Blade
+					1144 image Blade template preview
+				1145 heading Blade, Value: 3
+					1146 text Blade
+				1147 text Design Portfolio
+				1148 container Webflow
+				1149 checkbox Description: Add Blade to favorites, Help: Favorites are saved to your account, Value: 0
+			1150 container
+				1151 button Preview Sakura
+					1152 image Sakura template preview
+				1153 heading Sakura, Value: 3
+					1154 text Sakura
+				1155 text Design Portfolio
+				1156 container Webflow
+				1157 checkbox Description: Add Sakura to favorites, Help: Favorites are saved to your account, Value: 0
+			1158 container
+				1159 button Preview Swift
+					1160 image Swift template preview
+				1161 heading Swift, Value: 3
+					1162 text Swift
+				1163 text Software & SaaS
+				1164 container Webflow
+				1165 checkbox Description: Add Swift to favorites, Help: Favorites are saved to your account, Value: 0
+			1166 container
+				1167 button Preview Variable
+					1168 image Variable template preview
+				1169 heading Variable, Value: 3
+					1170 text Variable
+				1171 text Software & SaaS
+				1172 container Webflow
+				1173 checkbox Description: Add Variable to favorites, Help: Favorites are saved to your account, Value: 0
+			1174 container
+				1175 button Preview ViaVia
+					1176 image ViaVia template preview
+				1177 heading ViaVia, Value: 3
+					1178 text ViaVia
+				1179 text Software & SaaS
+				1180 container Webflow
+				1181 checkbox Description: Add ViaVia to favorites, Help: Favorites are saved to your account, Value: 0
+			1182 container
+				1183 button Preview ProCapture
+					1184 image ProCapture template preview
+				1185 heading ProCapture, Value: 3
+					1186 text ProCapture
+				1187 text Design Portfolio
+				1188 container Webflow
+				1189 checkbox Description: Add ProCapture to favorites, Help: Favorites are saved to your account, Value: 0
+			1190 container
+				1191 button Preview Majesty
+					1192 image Majesty template preview
+				1193 heading Majesty, Value: 3
+					1194 text Majesty
+				1195 text Design Portfolio
+				1196 container Webflow
+				1197 checkbox Description: Add Majesty to favorites, Help: Favorites are saved to your account, Value: 0
+			1198 container
+				1199 button Preview Prosper
+					1200 image Prosper template preview
+				1201 heading Prosper, Value: 3
+					1202 text Prosper
+				1203 text Design Portfolio
+				1204 container Webflow
+				1205 checkbox Description: Add Prosper to favorites, Help: Favorites are saved to your account, Value: 0
+			1206 container
+				1207 button Preview Apocalypse
+					1208 image Apocalypse template preview
+				1209 heading Apocalypse, Value: 3
+					1210 text Apocalypse
+				1211 text Design Portfolio
+				1212 container Webflow
+				1213 checkbox Description: Add Apocalypse to favorites, Help: Favorites are saved to your account, Value: 0
+			1214 container
+				1215 button Preview Fallen
+					1216 image Fallen template preview
+				1217 heading Fallen, Value: 3
+					1218 text Fallen
+				1219 text Design Portfolio
+				1220 container Webflow
+				1221 checkbox Description: Add Fallen to favorites, Help: Favorites are saved to your account, Value: 0
+			1222 container
+				1223 button Preview Pixies
+					1224 image Pixies template preview
+				1225 heading Pixies, Value: 3
+					1226 text Pixies
+				1227 text Design Portfolio
+				1228 container Webflow
+				1229 checkbox Description: Add Pixies to favorites, Help: Favorites are saved to your account, Value: 0
+			1230 container
+				1231 button Preview Radiants
+					1232 image Radiants template preview
+				1233 heading Radiants, Value: 3
+					1234 text Radiants
+				1235 text Mobile App
+				1236 container Webflow
+				1237 checkbox Description: Add Radiants to favorites, Help: Favorites are saved to your account, Value: 0
+			1238 container
+				1239 button Preview Pure
+					1240 image Pure template preview
+				1241 heading Pure, Value: 3
+					1242 text Pure
+				1243 text Mobile App
+				1244 container Webflow
+				1245 checkbox Description: Add Pure to favorites, Help: Favorites are saved to your account, Value: 0
+			1246 container
+				1247 button Preview Lenses
+					1248 image Lenses template preview
+				1249 heading Lenses, Value: 3
+					1250 text Lenses
+				1251 text Photography & Video Portfolio
+				1252 container Webflow
+				1253 checkbox Description: Add Lenses to favorites, Help: Favorites are saved to your account, Value: 0
+			1254 container
+				1255 button Preview Flexify
+					1256 image Flexify template preview
+				1257 heading Flexify, Value: 3
+					1258 text Flexify
+				1259 text Fitness & Gym
+				1260 container Webflow
+				1261 checkbox Description: Add Flexify to favorites, Help: Favorites are saved to your account, Value: 0
+			1262 container
+				1263 button Preview Chatty
+					1264 image Chatty template preview
+				1265 heading Chatty, Value: 3
+					1266 text Chatty
+				1267 text AI
+				1268 container Webflow
+				1269 checkbox Description: Add Chatty to favorites, Help: Favorites are saved to your account, Value: 0
+			1270 container
+				1271 button Preview Glossy
+					1272 image Glossy template preview
+				1273 heading Glossy, Value: 3
+					1274 text Glossy
+				1275 text Mobile App
+				1276 container Webflow
+				1277 checkbox Description: Add Glossy to favorites, Help: Favorites are saved to your account, Value: 0
+			1278 container
+				1279 button Preview Tilted
+					1280 image Tilted template preview
+				1281 heading Tilted, Value: 3
+					1282 text Tilted
+				1283 text Design Portfolio
+				1284 container Webflow
+				1285 checkbox Description: Add Tilted to favorites, Help: Favorites are saved to your account, Value: 0
+			1286 container
+				1287 button Preview Void
+					1288 image Void template preview
+				1289 heading Void, Value: 3
+					1290 text Void
+				1291 text Mobile App
+				1292 container Webflow
+				1293 checkbox Description: Add Void to favorites, Help: Favorites are saved to your account, Value: 0
+			1294 container
+				1295 button Preview Vibe
+					1296 image Vibe template preview
+				1297 heading Vibe, Value: 3
+					1298 text Vibe
+				1299 text Mobile App
+				1300 container Webflow
+				1301 checkbox Description: Add Vibe to favorites, Help: Favorites are saved to your account, Value: 0
+			1302 container
+				1303 button Preview Pulse
+					1304 image Pulse template preview
+				1305 heading Pulse, Value: 3
+					1306 text Pulse
+				1307 text Design Portfolio
+				1308 container Webflow
+				1309 checkbox Description: Add Pulse to favorites, Help: Favorites are saved to your account, Value: 0
+			1310 container
+				1311 button Preview Quiver
+					1312 image Quiver template preview
+				1313 heading Quiver, Value: 3
+					1314 text Quiver
+				1315 text AI
+				1316 container Webflow
+				1317 checkbox Description: Add Quiver to favorites, Help: Favorites are saved to your account, Value: 0
+			1318 container
+				1319 button Preview Forge FinX
+					1320 image Forge FinX template preview
+				1321 heading Forge FinX, Value: 3
+					1322 text Forge FinX
+				1323 text AI
+				1324 container Webflow
+				1325 checkbox Description: Add Forge FinX to favorites, Help: Favorites are saved to your account, Value: 0
+			1326 container
+				1327 button Preview Click
+					1328 image Click template preview
+				1329 heading Click, Value: 3
+					1330 text Click
+				1331 text Design Portfolio
+				1332 container Webflow
+				1333 checkbox Description: Add Click to favorites, Help: Favorites are saved to your account, Value: 0
+			1334 container
+				1335 button Preview Blue-print
+					1336 image Blue-print template preview
+				1337 heading Blue-print, Value: 3
+					1338 text Blue-print
+				1339 text Architecture
+				1340 container Webflow
+				1341 checkbox Description: Add Blue-print to favorites, Help: Favorites are saved to your account, Value: 0
+			1342 container
+				1343 button Preview EnterpriseLink
+					1344 image EnterpriseLink template preview
+				1345 heading EnterpriseLink, Value: 3
+					1346 text EnterpriseLink
+				1347 text AI
+				1348 container Webflow
+				1349 checkbox Description: Add EnterpriseLink to favorites, Help: Favorites are saved to your account, Value: 0
+			1350 container
+				1351 button Preview Overcast
+					1352 image Overcast template preview
+				1353 heading Overcast, Value: 3
+					1354 text Overcast
+				1355 text AI
+				1356 container Webflow
+				1357 checkbox Description: Add Overcast to favorites, Help: Favorites are saved to your account, Value: 0
+			1358 container
+				1359 button Preview Glaze
+					1360 image Glaze template preview
+				1361 heading Glaze, Value: 3
+					1362 text Glaze
+				1363 text Beauty & Wellness Store
+				1364 container Webflow
+				1365 checkbox Description: Add Glaze to favorites, Help: Favorites are saved to your account, Value: 0
+			1366 container
+				1367 button Preview Sparkle
+					1368 image Sparkle template preview
+				1369 heading Sparkle, Value: 3
+					1370 text Sparkle
+				1371 text Mobile App
+				1372 container Webflow
+				1373 checkbox Description: Add Sparkle to favorites, Help: Favorites are saved to your account, Value: 0
+			1374 container
+				1375 button Preview Sharp
+					1376 image Sharp template preview
+				1377 heading Sharp, Value: 3
+					1378 text Sharp
+				1379 text Mobile App
+				1380 container Webflow
+				1381 checkbox Description: Add Sharp to favorites, Help: Favorites are saved to your account, Value: 0
+			1382 container
+				1383 button Preview Stars
+					1384 image Stars template preview
+				1385 heading Stars, Value: 3
+					1386 text Stars
+				1387 text Mobile App
+				1388 container Webflow
+				1389 checkbox Description: Add Stars to favorites, Help: Favorites are saved to your account, Value: 0
+			1390 container
+				1391 button Preview UnderRated
+					1392 image UnderRated template preview
+				1393 heading UnderRated, Value: 3
+					1394 text UnderRated
+				1395 text Mobile App
+				1396 container Webflow
+				1397 checkbox Description: Add UnderRated to favorites, Help: Favorites are saved to your account, Value: 0
+			1398 container
+				1399 button Preview Better AI
+					1400 image Better AI template preview
+				1401 heading Better AI, Value: 3
+					1402 text Better AI
+				1403 text AI
+				1404 container Webflow
+				1405 checkbox Description: Add Better AI to favorites, Help: Favorites are saved to your account, Value: 0
+			1406 container
+				1407 button Preview Mid-Night
+					1408 image Mid-Night template preview
+				1409 heading Mid-Night, Value: 3
+					1410 text Mid-Night
+				1411 text Mobile App
+				1412 container Webflow
+				1413 checkbox Description: Add Mid-Night to favorites, Help: Favorites are saved to your account, Value: 0
+			1414 container
+				1415 button Preview Mark
+					1416 image Mark template preview
+				1417 heading Mark, Value: 3
+					1418 text Mark
+				1419 text Design Portfolio
+				1420 container Webflow
+				1421 checkbox Description: Add Mark to favorites, Help: Favorites are saved to your account, Value: 0
+			1422 container
+				1423 button Preview Sprinter
+					1424 image Sprinter template preview
+				1425 heading Sprinter, Value: 3
+					1426 text Sprinter
+				1427 text Design Portfolio
+				1428 container Webflow
+				1429 checkbox Description: Add Sprinter to favorites, Help: Favorites are saved to your account, Value: 0
+			1430 container
+				1431 button Preview Crystal
+					1432 image Crystal template preview
+				1433 heading Crystal, Value: 3
+					1434 text Crystal
+				1435 text Mobile App
+				1436 container Webflow
+				1437 checkbox Description: Add Crystal to favorites, Help: Favorites are saved to your account, Value: 0
+			1438 container
+				1439 button Preview Genius
+					1440 image Genius template preview
+				1441 heading Genius, Value: 3
+					1442 text Genius
+				1443 text Mobile App
+				1444 container Webflow
+				1445 checkbox Description: Add Genius to favorites, Help: Favorites are saved to your account, Value: 0
+			1446 container
+				1447 button Preview Delayed
+					1448 image Delayed template preview
+				1449 heading Delayed, Value: 3
+					1450 text Delayed
+				1451 text Mobile App
+				1452 container Webflow
+				1453 checkbox Description: Add Delayed to favorites, Help: Favorites are saved to your account, Value: 0
+			1454 container
+				1455 button Preview Pearl
+					1456 image Pearl template preview
+				1457 heading Pearl, Value: 3
+					1458 text Pearl
+				1459 text Mobile App
+				1460 container Webflow
+				1461 checkbox Description: Add Pearl to favorites, Help: Favorites are saved to your account, Value: 0
+			1462 container
+				1463 button Preview Brave
+					1464 image Brave template preview
+				1465 heading Brave, Value: 3
+					1466 text Brave
+				1467 text Mobile App
+				1468 container Webflow
+				1469 checkbox Description: Add Brave to favorites, Help: Favorites are saved to your account, Value: 0
+			1470 container
+				1471 button Preview Crocus
+					1472 image Crocus template preview
+				1473 heading Crocus, Value: 3
+					1474 text Crocus
+				1475 text Mobile App
+				1476 container Webflow
+				1477 checkbox Description: Add Crocus to favorites, Help: Favorites are saved to your account, Value: 0
+			1478 container
+				1479 button Preview Loading
+					1480 image Loading template preview
+				1481 heading Loading, Value: 3
+					1482 text Loading
+				1483 text Design Portfolio
+				1484 container Webflow
+				1485 checkbox Description: Add Loading to favorites, Help: Favorites are saved to your account, Value: 0
+			1486 container
+				1487 button Preview Vanta
+					1488 image Vanta template preview
+				1489 heading Vanta, Value: 3
+					1490 text Vanta
+				1491 text Mobile App
+				1492 container Webflow
+				1493 checkbox Description: Add Vanta to favorites, Help: Favorites are saved to your account, Value: 0
+			1494 container
+				1495 button Preview Oreo AI
+					1496 image Oreo AI template preview
+				1497 heading Oreo AI, Value: 3
+					1498 text Oreo AI
+				1499 text Mobile App
+				1500 container Webflow
+				1501 checkbox Description: Add Oreo AI to favorites, Help: Favorites are saved to your account, Value: 0
+			1502 container
+				1503 button Preview Rampage
+					1504 image Rampage template preview
+				1505 heading Rampage, Value: 3
+					1506 text Rampage
+				1507 text Design Portfolio
+				1508 container Webflow
+				1509 checkbox Description: Add Rampage to favorites, Help: Favorites are saved to your account, Value: 0
+			1510 container
+				1511 button Preview Control
+					1512 image Control template preview
+				1513 heading Control, Value: 3
+					1514 text Control
+				1515 text Mobile App
+				1516 container Webflow
+				1517 checkbox Description: Add Control to favorites, Help: Favorites are saved to your account, Value: 0
+			1518 container
+				1519 button Preview Blury
+					1520 image Blury template preview
+				1521 heading Blury, Value: 3
+					1522 text Blury
+				1523 text Design Portfolio
+				1524 container Webflow
+				1525 checkbox Description: Add Blury to favorites, Help: Favorites are saved to your account, Value: 0
+			1526 container
+				1527 button Preview Coraline
+					1528 image Coraline template preview
+				1529 heading Coraline, Value: 3
+					1530 text Coraline
+				1531 text Mobile App
+				1532 container Webflow
+				1533 checkbox Description: Add Coraline to favorites, Help: Favorites are saved to your account, Value: 0
+			1534 container
+				1535 button Preview Confettis
+					1536 image Confettis template preview
+				1537 heading Confettis, Value: 3
+					1538 text Confettis
+				1539 text Mobile App
+				1540 container Webflow
+				1541 checkbox Description: Add Confettis to favorites, Help: Favorites are saved to your account, Value: 0
+			1542 container
+				1543 button Preview Matte Extra
+					1544 image Matte Extra template preview
+				1545 heading Matte Extra, Value: 3
+					1546 text Matte Extra
+				1547 text AI
+				1548 container Webflow
+				1549 checkbox Description: Add Matte Extra to favorites, Help: Favorites are saved to your account, Value: 0
+			1550 container
+				1551 button Preview Delusional
+					1552 image Delusional template preview
+				1553 heading Delusional, Value: 3
+					1554 text Delusional
+				1555 text Mobile App
+				1556 container Webflow
+				1557 checkbox Description: Add Delusional to favorites, Help: Favorites are saved to your account, Value: 0
+			1558 container
+				1559 button Preview Indigo
+					1560 image Indigo template preview
+				1561 heading Indigo, Value: 3
+					1562 text Indigo
+				1563 text Design Portfolio
+				1564 container Webflow
+				1565 checkbox Description: Add Indigo to favorites, Help: Favorites are saved to your account, Value: 0
+			1566 container
+				1567 button Preview WiseX
+					1568 image WiseX template preview
+				1569 heading WiseX, Value: 3
+					1570 text WiseX
+				1571 text Mobile App
+				1572 container Webflow
+				1573 checkbox Description: Add WiseX to favorites, Help: Favorites are saved to your account, Value: 0
+			1574 container
+				1575 button Preview Sodium
+					1576 image Sodium template preview
+				1577 heading Sodium, Value: 3
+					1578 text Sodium
+				1579 text Design Portfolio
+				1580 container Webflow
+				1581 checkbox Description: Add Sodium to favorites, Help: Favorites are saved to your account, Value: 0
+			1582 container
+				1583 button Preview Matte
+					1584 image Matte template preview
+				1585 heading Matte, Value: 3
+					1586 text Matte
+				1587 text Mobile App
+				1588 container Webflow
+				1589 checkbox Description: Add Matte to favorites, Help: Favorites are saved to your account, Value: 0
+			1590 container
+				1591 button Preview Aerials
+					1592 image Aerials template preview
+				1593 heading Aerials, Value: 3
+					1594 text Aerials
+				1595 text Design Portfolio
+				1596 container Webflow
+				1597 checkbox Description: Add Aerials to favorites, Help: Favorites are saved to your account, Value: 0
+			1598 container
+				1599 button Preview Savvy
+					1600 image Savvy template preview
+				1601 heading Savvy, Value: 3
+					1602 text Savvy
+				1603 text Banking & Investment
+				1604 container Webflow
+				1605 checkbox Description: Add Savvy to favorites, Help: Favorites are saved to your account, Value: 0
+			1606 container
+				1607 button Preview Pleasures
+					1608 image Pleasures template preview
+				1609 heading Pleasures, Value: 3
+					1610 text Pleasures
+				1611 text Design Portfolio
+				1612 container Webflow
+				1613 checkbox Description: Add Pleasures to favorites, Help: Favorites are saved to your account, Value: 0
+		1623 container Stillpoint preview
+			1624 container
+				1625 heading Stillpoint, Value: 2
+					1626 text Stillpoint
+				1627 text Therapy & Psychology
+				1628 tab group Preview viewport
+					1629 tab (selectable, settable, boolean) Description: Desktop, Value: 0
+					1630 tab (selectable, settable, boolean) Description: Tablet, Value: 0
+					1631 tab (selected, settable, boolean) Description: Mobile, Value: 1
+				1632 pop up button (collapsed) Description: Copy Prompt options, Secondary Actions: Expand
+				1633 checkbox Description: Add to favorites, Help: Favorites are saved to your account, Value: 0
+				1634 link Description: Sign up to unlock, Value: supply.madebyoversi…
+				1635 button Close preview
+			1636 container
+				1640 container Stillpoint live preview
+					1647 AXWebArea Stillpoint - Webflow HTML website template, URL: supply.madebyoversi…
+						1648 container
+							1649 link ovo-stillpoint.webf…
+							1650 pop up button (collapsed) Description: menu, Secondary Actions: Expand
+								1837 text 
+						1652 container
+							1653 text Therapy Webflow template
+							1654 heading Feel like yourself again with therapy that meets you where you are., Value: 1
+								1655 text Feel like yourself again with therapy that  meets you  where you are.
+							1656 container w-node-_477feac4-6fab-57bf-0288-8657771e4da5-e423cbd0
+								1657 text A calm, practical space to slow down, understand what’s weighing on you, and build a more sustainable way forward.
+								1658 link Description: Book Free Consultation Book Free Consultation, Value: ovo-stillpoint.webf…
+							1659 image Therapy website hero image showing a woman in soft light, representing support for burnout, anxiety, and emotional wellness.
+						1660 container
+							1661 container carousel
+								1662 container w-slider-mask-0
+									1663 container 1 of 6
+										1664 heading Burnout Recovery, Value: 2
+											1665 text Burnout Recovery
+										1666 text Support for emotional exhaustion, chronic stress and the feeling that work.
+								1667 button previous slide
+								1668 button next slide
+							1669 text Format
+							1670 image Illustration of a closed brown hardcover book placed on a white oval-shaped tray casting a shadow on a light beige background.
+							1671 text Individual therapy for professionals and creatives Sessions
+							1672 image Two brown pill-shaped tablets among ten white tablets on an oval white tray.
+							1673 text Virtual support designed to fit real life
+							1674 container w-node-_8cecde78-c4f0-e90d-1ff5-29c5f117a190-e423cbd0
+								1675 text Approach
+								1676 image Minimalist illustration of a brown closed book and a white cup on an oval white tray.
+								1677 text Calm, practical, and grounded in everyday life
+						1678 container
+							1679 heading Therapy that brings clarity, steadiness, and room to breathe., Value: 2
+								1680 text Therapy that brings clarity, steadiness, and room to breathe.
+							1681 image Woman in white dress sitting barefoot on a modern white chair by large glass doors with sheer white curtains and flower pots outside.
+							1682 container w-node-f4f72ff1-25e9-870b-ebab-d01a8b410859-e423cbd0
+								1683 heading Understand what burnout is taking from you right now., Value: 3
+									1684 text Understand what burnout is taking from you right now.
+								1685 text When stress becomes constant, it can affect your energy, focus, relationships, and sense of self.
+								1686 text “After my sessions with Sophia, I felt a calm I hadn’t experienced in years. Her guidance brought me back to myself — gently and powerfully.”
+								1687 link Description: Book Free Consultation Book Free Consultation, Value: ovo-stillpoint.webf…
+							1688 container w-node-f4f72ff1-25e9-870b-ebab-d01a8b410874-e423cbd0
+								1689 heading Build steadier ways to cope, respond, and recover., Value: 2
+									1690 text Build steadier ways to cope, respond, and recover.
+								1691 text Therapy is not about having all the answers at once. It is about creating practical ways to regulate stress, set healthier boundaries.
+								1692 text burnout
+								1693 text anxiety
+								1694 text overwhelm
+								1695 text sorrow
+								1696 text despondency
+								1697 link Description: Book Free Consultation Book Free Consultation, Value: ovo-stillpoint.webf…
+							1698 image Open notebook with handwritten text on a white desk next to a laptop keyboard under sunlight.
+						1699 heading “Healing takes time. It begins with quiet awareness and rest.”, Value: 2
+							1700 text “Healing takes time. It begins with quiet awareness and rest.”
+						1701 image Large tree with dense leaves standing in a foggy field123 at sunrise with a wooden bench nearby.
+						1702 container
+							1703 heading When stress stays high for too long, it can touch every part of life., Value: 2
+								1704 text When stress stays high for too long, it can touch every part of life.
+							1705 text Burnout and chronic anxiety rarely stay contained to work they can show up in your focus.
+							1706 text Work no longer feels manageable 
+							1707 text - even when you keep pushing
+							1708 text Rest does not feel restorative 
+							1709 text - and your mind stays switched on
+							1710 text You feel distant from yourself - 
+							1711 text others, or the life you want to be living Together, therapy can help you slow the cycle of pressure and exhaustion, build steadier boundaries, and reconnect with a life that feels more sustainable from the inside out.
+							1712 heading A quiet place to begin again., Value: 2
+								1713 text A quiet place to begin again.
+							1714 heading Small steps can soften heavy days., Value: 3
+								1715 text Small steps can soften heavy days.
+							1716 heading Move through life at your own pace., Value: 4
+								1717 text Move through life at your own pace.
+							1718 heading Feel closer without losing yourself., Value: 4
+								1719 text Feel closer without losing yourself.
+							1720 heading Rest that feels safe, not distant., Value: 4
+								1721 text Rest that feels safe, not distant.
+						1722 container
+							1723 heading Large identifies where automation can create the biggest impact., Value: 3
+								1724 text Large identifies where automation can create the biggest impact.
+							1725 container
+								1726 heading Work & pressure, Value: 4
+									1727 text Work & pressure
+								1728 text Therapy can help you understand the pressure you are carrying and create a healthier way of relating to work.
+							1729 container
+								1730 heading Work & pressure, Value: 5
+									1731 text Work & pressure
+								1732 text Work stress can slowly stop feeling like “just a busy season” and start affecting how you think, sleep, and move through the rest of your life. Recognize the signs of burnout before they deepen Set boundaries that protect your time and energy Build a healthier relationship with performance and pressure
+							1733 container
+								1734 heading Rest & recovery, Value: 4
+									1735 text Rest & recovery
+								1736 text Healing is not only about talking through what is hard.
+								1737 heading Rest & recovery, Value: 5
+									1738 text Rest & recovery
+								1739 text Healing is not only about talking through what hurts. It is also about creating enough safety, space, and support for your mind and body to soften out of survival mode.
+								1740 text Create routines that support rest and nervous system recovery
+								1741 text Make space for softness, pause, and emotional repair
+								1742 text Rebuild steadiness after long periods of stress or exhaustion
+							1743 container
+								1744 heading Anxiety & overwhelm, Value: 4
+									1745 text Anxiety & overwhelm
+								1746 text Therapy can help you slow the cycle of overthinking, emotional fatigue, and always feeling one step behind your own life.
+							1747 container
+								1748 heading Anxiety & overwhelm, Value: 5
+									1749 text Anxiety & overwhelm
+								1750 text Anxiety and overwhelm can make even ordinary days feel heavy, rushed, or hard to keep up with. Understand patterns of overthinking and emotional fatigue Learn grounding tools for stressful or spiraling moments Feel more present in your daily life and relationships
+						1751 container
+							1752 heading The Industry Use Cases, Value: 2
+								1753 text The Industry Use Cases
+							1754 text Velit auctor vestibulum vel in est. Nec commodo tellus eu sed metus erat. Nisl nunc feugiat netus cursus purus hendrerit metus.
+							1755 content list
+								1756 link Value: ovo-stillpoint.webf…, Description: Rest & Recovery Rebuild a more grounded rhythm of life with support that makes rest, reflection, and recovery feel possible again. Recovery
+								1757 link Value: ovo-stillpoint.webf…, Description: Life Transitions Support through identity shifts, career changes, burnout recovery, and seasons of life that feel uncertain or overwhelming. Life Transitions
+								1758 link Value: ovo-stillpoint.webf…, Description: Burnout Recovery Support for emotional exhaustion, chronic stress, and the feeling that work has taken more than it should. Burnout & Stress
+						1759 container
+							1760 heading Questions?, Value: 2
+								1761 text Questions?
+							1762 text Whether you’re new or exploring deeper support, we know you may have questions. How do I know if therapy is right for me?
+							1763 text Therapy can be helpful whether you are feeling overwhelmed, stuck, anxious, burnt out, or simply ready to understand yourself more deeply. You do not need to be in crisis to begin.
+							1764 text What can I talk about in therapy?
+							1765 text You can talk about anything that feels important to you — stress, anxiety, burnout, relationships, life transitions, emotional exhaustion, or patterns you want to better understand and change.
+							1766 text What should I expect in the first session?
+							1767 text The first session is a chance to slow down, talk about what is bringing you in, and explore what support might look like for you. There is no pressure to have everything figured out before you start.
+							1768 text Do you offer virtual sessions?
+							1769 text Yes, sessions are offered online so you can access support from a space that feels private, comfortable, and convenient for you.
+							1770 container w-node-_9b488adb-339e-3908-c226-e9ab8c498f65-8c498f31
+								1771 text Still have questions?
+								1772 text Can’t find the answer you’re looking for?
+								1773 link Description: Get in touch with us Get in touch with us, Value: ovo-stillpoint.webf…
+						1774 container
+							1775 container
+								1776 heading You do not have to keep carrying it alone., Value: 2
+									1777 text You do not have to keep carrying it alone.
+								1778 text Therapy offers space to slow down, understand what you are carrying, and build steadier ways to move through.
+								1779 link Description: Book Free Consultation Book Free Consultation, Value: ovo-stillpoint.webf…
+								1780 text A calm place to begin
+						1781 container
+							1782 text Join our newsletter
+							1783 container Description: Career Tips, ID: wf-form-Career-Tips
+								1784 text field (settable)
+								1785 button Subscribe
+							1786 link Description: Social Media Icon, Value: ig.com/
+							1787 link Description: Social Media Icon, Value: twitter.com/
+							1788 link Description: Mail Icon, Value: mailto:email@dummy.…
+							1789 container w-node-e92bf484-a605-4132-f141-4518468af7e2-468af7d9
+								1790 text Company
+								1791 container
+									1792 link Description: Home, Value: ovo-stillpoint.webf…
+								1793 container
+									1794 link Description: Approach, Value: ovo-stillpoint.webf…
+								1795 container
+									1796 link Description: About, Value: ovo-stillpoint.webf…
+								1797 container
+									1798 link Description: Areas Of Support, Value: ovo-stillpoint.webf…
+								1799 container
+									1800 link Description: Journal, Value: ovo-stillpoint.webf…
+								1801 container
+									1802 link Description: Contact, Value: ovo-stillpoint.webf…
+							1803 container w-node-_195255ce-1e2c-6d65-d24c-45924fa09edc-468af7d9
+								1804 text Legal
+								1805 container
+									1806 link Description: Privacy Policy, Value: ovo-stillpoint.webf…
+								1807 container
+									1808 link Description: Terms of Service, Value: ovo-stillpoint.webf…
+								1809 container
+									1810 link Description: Cookie Policy, Value: ovo-stillpoint.webf…
+							1811 container w-node-e92bf484-a605-4132-f141-4518468af7ef-468af7d9
+								1812 text Social media
+								1813 container
+									1814 link Description: Instagram, Value: instagram.com/
+								1815 container
+									1816 link Description: Facebook, Value: fb.com/
+								1817 container
+									1818 link Description: Linkedin, Value: linkedin.com/
+								1819 container
+									1820 link Description: Twitter, Value: twitter.com/
+							1821 container w-node-e92bf484-a605-4132-f141-4518468af7fa-468af7d9
+								1822 text Webflow stuff
+								1823 container
+									1824 link Description: Style Guide, Value: ovo-stillpoint.webf…
+								1825 container
+									1826 link Description: Licensing, Value: ovo-stillpoint.webf…
+								1827 container
+									1828 link Description: Instructions, Value: ovo-stillpoint.webf…
+								1829 container
+									1830 link Description: Change Log, Value: ovo-stillpoint.webf…
+								1831 container
+									1832 link Description: GET TEMPLATE, Value: webflow.com/templat…
+							1833 text CREATED BY 
+							1834 link Description: OVERSIGHT, Value: madebyoversight.com/
+							1835 text POWERED BY 
+							1836 link Description: WEBFLOW, Value: webflow.com/
+				1642 button Reload preview
+			1643 container
+				1644 button (collapsed) Template details, Secondary Actions: Expand
+				1645 text Live preview of the published demo
+				1646 link Description: Open live site, Value: ovo-stillpoint.webf…
+	1614 container
+		1615 text ©  2026  OversightStudio, LLC
+		1616 link Description: Terms, Value: supply.madebyoversi…
+		1617 link Description: Privacy, Value: supply.madebyoversi…
+		1618 link Description: Refunds, Value: supply.madebyoversi…
+		1619 link Description: Contact, Value: mailto:info@madebyo…
+	1620 button A spooky ticket. Open it
+		1621 text BOO
+		1622 text 50%
+
+The focused UI element is 1631 tab (selected, settable, boolean) Description: Mobile, Value: 1
