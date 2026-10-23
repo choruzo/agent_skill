@@ -1,0 +1,212 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1920, height=1080" />
+    <title>Technical Editorial — starter</title>
+    <style>
+      /* ---------- fonts (vendored; no network, no system-font surprises) ---------- */
+      @font-face { font-family: "Inter"; src: url("fonts/Inter-latin.woff2") format("woff2");
+                   font-weight: 100 900; font-display: block; }
+      @font-face { font-family: "JBMono"; src: url("fonts/JetBrainsMono-Regular.ttf") format("truetype");
+                   font-weight: 400; font-display: block; }
+      @font-face { font-family: "JBMono"; src: url("fonts/JetBrainsMono-Medium.ttf") format("truetype");
+                   font-weight: 500; font-display: block; }
+
+      /* ---------- tokens ---------- */
+      :root {
+        --bg: #05060a;
+        --ink: #f5f6f8;
+        --muted: #9196a3;   /* 6.5:1 */
+        --dim: #7c818e;     /* 4.5:1 floor on this background */
+        --line: rgba(255, 255, 255, 0.09);
+        --accent: #4d6bfe;
+        --accent-mid: #b9c4ff;                    /* accent text on dark */
+        --accent-soft: rgba(77, 107, 254, 0.16);  /* fill */
+        --accent-line: rgba(77, 107, 254, 0.38);  /* border */
+        --accent-glow: rgba(77, 107, 254, 0.65);  /* element bloom */
+        --accent-bloom: rgba(77, 107, 254, 0.20); /* background wash */
+      }
+
+      * { box-sizing: border-box; }
+      html, body { margin: 0; padding: 0; background: #000; color: var(--ink);
+                   font-family: "Inter", sans-serif; -webkit-font-smoothing: antialiased; }
+
+      #root { position: relative; width: 100%; height: 100%; overflow: hidden; background: var(--bg); }
+
+      /* ---------- persistent chrome ---------- */
+      .bg-grid { position: absolute; inset: 0; background-image:
+          linear-gradient(to right, rgba(255,255,255,.032) 1px, transparent 1px),
+          linear-gradient(to bottom, rgba(255,255,255,.032) 1px, transparent 1px);
+        background-size: 64px 64px;
+        mask-image: radial-gradient(ellipse 75% 65% at 50% 45%, #000 20%, transparent 100%);
+        -webkit-mask-image: radial-gradient(ellipse 75% 65% at 50% 45%, #000 20%, transparent 100%); }
+      .bg-glow { position: absolute; inset: 0; background:
+          radial-gradient(900px 620px at 78% 8%, var(--accent-bloom), transparent 70%),
+          radial-gradient(700px 500px at 8% 96%, var(--accent-soft), transparent 70%); }
+      .bg-vignette { position: absolute; inset: 0; background:
+          radial-gradient(ellipse 90% 80% at 50% 50%, transparent 40%, rgba(0,0,0,.55) 100%); }
+      .chrome { position: absolute; top: 58px; font-family: "JBMono", monospace; font-size: 17px;
+                letter-spacing: .2em; color: var(--dim); text-transform: uppercase; }
+      .chrome.left { left: 96px; }
+      .chrome.right { right: 96px; text-align: right; }
+      .progress { position: absolute; left: 0; bottom: 0; height: 3px; width: 100%;
+                  background: rgba(255,255,255,.06); transform-origin: 0 50%; }
+      .progress i { display: block; height: 100%; background: var(--accent); transform-origin: 0 50%; }
+
+      /* ---------- shared ---------- */
+      .scene { position: absolute; inset: 0; padding: 0 96px; overflow: hidden; }
+      .inner { position: absolute; inset: 0; padding: 0 96px; }
+      .kicker { font-family: "JBMono", monospace; font-size: 18px; font-weight: 500;
+                letter-spacing: .24em; color: var(--accent); text-transform: uppercase; }
+      h2 { margin: 22px 0 0; font-size: 74px; line-height: 1.02; letter-spacing: -.035em; font-weight: 700; }
+      .mask { display: block; overflow: hidden; padding-bottom: .24em; margin-bottom: -.24em; }
+      .mask > span { display: block; }
+
+      /* ---------- scene 1 ---------- */
+      .s1-copy { position: absolute; left: 96px; top: 322px; width: 1600px; }
+      .s1-kicker { font-family: "JBMono", monospace; font-size: 19px; letter-spacing: .26em;
+                   color: var(--muted); text-transform: uppercase; }
+      h1 { margin: 30px 0 0; font-size: 172px; line-height: .9; letter-spacing: -.048em; font-weight: 700; }
+      h1 em { font-style: normal; color: var(--accent); }
+      .s1-sub { margin-top: 44px; font-size: 38px; color: #b9bec9; }
+      .s1-rule { margin-top: 52px; width: 300px; height: 3px; background: var(--accent); transform-origin: 0 50%; }
+
+      /* ---------- scene 2 ---------- */
+      .s2-head { position: absolute; left: 96px; top: 150px; }
+      .bench { position: absolute; left: 96px; top: 420px; width: 1728px; }
+      .bench-head { display: flex; justify-content: space-between; align-items: baseline;
+                    padding-bottom: 16px; border-bottom: 1px solid var(--line); }
+      .bench-name { font-size: 36px; font-weight: 600; letter-spacing: -.02em; }
+      .bench-note { font-family: "JBMono", monospace; font-size: 17px; letter-spacing: .14em;
+                    color: var(--dim); text-transform: uppercase; }
+      .bar-row { display: flex; align-items: center; gap: 20px; margin-top: 16px; }
+      .bar-tag { font-family: "JBMono", monospace; font-size: 16px; letter-spacing: .12em;
+                 color: var(--dim); width: 74px; text-transform: uppercase; }
+      .bar-tag.hot { color: #b9c4ff; }
+      .track { position: relative; width: 1230px; height: 34px;
+               background: rgba(255,255,255,.028); border-radius: 2px; }
+      .bar { position: absolute; left: 0; top: 0; height: 100%; border-radius: 2px;
+             transform-origin: 0% 50%; }
+      .bar.prev { background: #3b404c; }
+      .bar.next { background: var(--accent); box-shadow: 0 0 34px var(--accent-glow); }
+      .bar-val { font-family: "JBMono", monospace; font-size: 30px; width: 108px; text-align: right; }
+      .bar-val.dim { color: #767c89; }
+      .delta { font-family: "JBMono", monospace; font-size: 22px; font-weight: 700; color: #b9c4ff;
+               background: var(--accent-soft); border: 1px solid var(--accent-line);
+               padding: 6px 12px; width: 104px; text-align: center; }
+      .s2-foot { position: absolute; left: 96px; top: 900px; font-family: "JBMono", monospace;
+                 font-size: 18px; letter-spacing: .1em; color: var(--dim); }
+
+      /* ---------- scene 3 ---------- */
+      .endcard { position: absolute; inset: 0; display: flex; flex-direction: column;
+                 align-items: center; justify-content: center; }
+      .end-brand { font-family: "JBMono", monospace; font-size: 20px; letter-spacing: .42em;
+                   color: var(--muted); text-transform: uppercase; }
+      .end-title { margin-top: 26px; font-size: 128px; font-weight: 700; letter-spacing: -.05em;
+                   line-height: .95; text-align: center; }
+      .end-title .ln { display: block; }
+      .end-title .hot { color: var(--accent); }
+      .end-date { margin-top: 40px; font-family: "JBMono", monospace; font-size: 18px;
+                  letter-spacing: .3em; color: var(--dim); }
+    </style>
+  </head>
+  <body>
+    <div id="root" data-composition-id="main" data-start="0"
+         data-width="1920" data-height="1080" data-duration="12">
+
+      <div class="bg-grid"></div>
+      <div class="bg-glow"></div>
+      <div class="bg-vignette"></div>
+      <div class="chrome left">Project name</div>
+      <div class="chrome right">v1 &nbsp;/&nbsp; 17 Oct 2026</div>
+
+      <!-- 1 · title -->
+      <section id="s1" class="clip scene" data-start="0" data-duration="4">
+        <div id="s1-inner" class="inner">
+          <div class="s1-copy">
+            <div id="s1-kicker" class="s1-kicker">One line of context</div>
+            <h1>
+              <span class="mask"><span id="s1-l1">Say it</span></span>
+              <span class="mask"><span id="s1-l2">in two lines <em>max</em></span></span>
+            </h1>
+            <div id="s1-sub" class="s1-sub">A claim the evidence can carry.</div>
+            <div id="s1-rule" class="s1-rule"></div>
+          </div>
+        </div>
+      </section>
+
+      <!-- 2 · proof -->
+      <section id="s2" class="clip scene" data-start="4" data-duration="5">
+        <div id="s2-inner" class="inner">
+          <div class="s2-head">
+            <div id="s2-kicker" class="kicker">Proof</div>
+            <h2 class="mask"><span id="s2-title">One number per beat.</span></h2>
+          </div>
+
+          <div class="bench">
+            <div class="bench-head">
+              <span class="bench-name">Benchmark name</span>
+              <span class="bench-note">Harness / setup</span>
+            </div>
+            <div class="bar-row">
+              <span class="bar-tag">prev</span>
+              <div class="track"><div id="b-prev" class="bar prev" style="width: 31%"></div></div>
+              <span class="bar-val dim">31.0</span>
+            </div>
+            <div class="bar-row">
+              <span class="bar-tag hot">now</span>
+              <div class="track"><div id="b-now" class="bar next" style="width: 42%"></div></div>
+              <span class="bar-val">42.0</span>
+              <span id="b-delta" class="delta">+11.0</span>
+            </div>
+          </div>
+
+          <div id="s2-foot" class="s2-foot">0–100 scale · higher is better · source in the footnote</div>
+        </div>
+      </section>
+
+      <!-- 3 · end card -->
+      <section id="s3" class="clip scene" data-start="9" data-duration="3">
+        <div id="s3-inner" class="endcard">
+          <div id="e-brand" class="end-brand">Brand</div>
+          <div id="e-title" class="end-title"><span class="ln">Name</span><span class="ln hot">2026</span></div>
+          <div id="e-date" class="end-date">17 · 10 · 2026</div>
+        </div>
+      </section>
+
+      <div class="progress"><i id="progress-fill"></i></div>
+    </div>
+
+    <script src="vendor/gsap.min.js"></script>
+    <script>
+      const tl = gsap.timeline({ paused: true });
+
+      tl.fromTo("#progress-fill", { scaleX: 0 }, { scaleX: 1, duration: 12, ease: "none" }, 0);
+
+      /* 1 · title */
+      tl.fromTo("#s1-kicker", { opacity: 0, y: 14 }, { opacity: 1, y: 0, duration: .7, ease: "power2.out" }, .3);
+      tl.fromTo("#s1-l1", { yPercent: 112 }, { yPercent: 0, duration: 1.05, ease: "power4.out" }, .4);
+      tl.fromTo("#s1-l2", { yPercent: 112 }, { yPercent: 0, duration: 1.05, ease: "power4.out" }, .54);
+      tl.fromTo("#s1-sub", { opacity: 0, y: 18 }, { opacity: 1, y: 0, duration: .8, ease: "power2.out" }, 1.15);
+      tl.fromTo("#s1-rule", { scaleX: 0 }, { scaleX: 1, duration: .9, ease: "power3.inOut" }, 1.35);
+      tl.to("#s1-inner", { opacity: 0, duration: .3, ease: "power2.in" }, 3.7);
+
+      /* 2 · proof */
+      tl.fromTo("#s2-kicker", { opacity: 0, y: 12 }, { opacity: 1, y: 0, duration: .5, ease: "power2.out" }, 4.15);
+      tl.fromTo("#s2-title", { yPercent: 110 }, { yPercent: 0, duration: .9, ease: "power4.out" }, 4.25);
+      tl.fromTo("#b-prev", { scaleX: 0 }, { scaleX: 1, duration: .55, ease: "power2.out" }, 4.9);
+      tl.fromTo("#b-now", { scaleX: 0 }, { scaleX: 1, duration: .95, ease: "power3.out" }, 5.2);
+      tl.fromTo("#b-delta", { opacity: 0, x: -12 }, { opacity: 1, x: 0, duration: .45, ease: "power2.out" }, 5.85);
+      tl.fromTo("#s2-foot", { opacity: 0 }, { opacity: 1, duration: .6, ease: "power2.out" }, 6.0);
+      tl.to("#s2-inner", { opacity: 0, duration: .3, ease: "power2.in" }, 8.7);
+
+      /* 3 · end card */
+      tl.fromTo("#e-brand", { opacity: 0, y: 12 }, { opacity: 1, y: 0, duration: .6, ease: "power2.out" }, 9.2);
+      tl.fromTo("#e-title", { opacity: 0, y: 34 }, { opacity: 1, y: 0, duration: .9, ease: "power3.out" }, 9.35);
+      tl.fromTo("#e-date", { opacity: 0 }, { opacity: 1, duration: .6 }, 10.1);
+
+      window.__timelines["main"] = tl;
+    </script>
+  </body>
+</html>
